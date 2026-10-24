@@ -1,0 +1,45 @@
+{
+  "datasetId": "replace-with-stable-id",
+  "name": "Replace with descriptive dataset name",
+  "version": "0.1.0",
+  "status": "proposed",
+  "owner": "team-or-owner-reference",
+  "description": "Describe purpose, scope, and known limitations.",
+  "intendedUse": [
+    "evaluation"
+  ],
+  "schemaVersion": "1.0",
+  "languages": ["en", "fr", "ar"],
+  "createdAt": "YYYY-MM-DD",
+  "reviewedAt": null,
+  "sources": [
+    {
+      "sourceId": "source-001",
+      "publisher": "source owner",
+      "reference": "canonical source URL or internal reference",
+      "acquiredAt": "YYYY-MM-DD",
+      "licenseName": "license or permission reference",
+      "licenseReference": "URL or controlled document reference",
+      "redistributionAllowed": false,
+      "trainingAllowed": false,
+      "attributionRequired": true,
+      "notes": "Record restrictions and reviewer decision."
+    }
+  ],
+  "files": [
+    {
+      "path": "records.jsonl",
+      "format": "jsonl",
+      "recordCount": 0,
+      "sha256": "fill-with-release-checksum"
+    }
+  ],
+  "qualityReport": "quality-report.json",
+  "privacyAssessment": {
+    "containsPersonalData": "unknown",
+    "sensitiveDataReview": "pending",
+    "approvedForRelease": false
+  },
+  "knownLimitations": [],
+  "withdrawalProcedure": "Describe owner, contact, and downstream removal process."
+}
