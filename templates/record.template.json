@@ -1,0 +1,29 @@
+{
+  "id": "dataset-id-000001",
+  "schemaVersion": "1.0",
+  "datasetId": "dataset-id",
+  "taskType": "assistant_response",
+  "language": "en",
+  "locale": "en-DZ",
+  "input": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Replace with a synthetic, non-sensitive example."
+      }
+    ]
+  },
+  "expected": {
+    "criteria": [
+      "Replace with an observable quality criterion."
+    ],
+    "mustNot": []
+  },
+  "metadata": {
+    "split": "test",
+    "sourceType": "synthetic",
+    "licenseRef": "INTERNAL-SYNTHETIC",
+    "reviewStatus": "pending",
+    "notes": "This is a template and is not an approved dataset record."
+  }
+}
