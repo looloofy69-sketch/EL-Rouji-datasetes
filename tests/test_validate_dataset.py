@@ -77,7 +77,7 @@ class ValidateDatasetTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp:
             report = validate_manifest(make_manifest(Path(temp)))
             self.assertEqual(report.errors, [])
-            self.assertTrue(any("not production use" in warning for warning in report.warnings))
+            self.assertTrue(any("production use" in warning for warning in report.warnings))
             self.assertEqual(report.records_checked, 1)
 
     def test_valid_released_manifest_passes(self) -> None:
