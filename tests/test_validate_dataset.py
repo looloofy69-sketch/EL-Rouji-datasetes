@@ -95,9 +95,7 @@ class ValidateDatasetTests(unittest.TestCase):
                 manifest.write_text(json.dumps(doc), encoding="utf-8")
                 report = validate_manifest(manifest)
                 self.assertTrue(
-                    any("manifest.createdAt" in error and "ISO date (YYYY-MM-DD)" in error
-                        or "manifest.createdAt" in error and "valid ISO date (YYYY-MM-DD)" in error
-                        for error in report.errors),
+                    any(error.startswith("manifest.createdAt must be ") for error in report.errors),
                     msg=f"Expected strict date-format error for {invalid_date!r}: {report.errors}",
                 )
 
