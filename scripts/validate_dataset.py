@@ -17,6 +17,7 @@ from typing import Any
 STATUSES = {"proposed", "collecting", "cleaning", "review", "approved", "released", "deprecated", "withdrawn"}
 LANGUAGE_TAG = re.compile(r"^[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$")
 SHA256 = re.compile(r"^[a-fA-F0-9]{64}$")
+ISO_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 REQUIRED_RECORD_FIELDS = ("id", "schemaVersion", "datasetId", "taskType", "language", "input")
 REQUIRED_METADATA_FIELDS = ("sourceType", "licenseRef", "reviewStatus")
 
@@ -42,7 +43,7 @@ def nonempty_string(value: Any) -> bool:
 def parse_date(value: Any, field: str, report: Validation, required: bool = False) -> None:
     if value is None and not required:
         return
-    if not isinstance(value, str):
+    if not isinstance(value, str) or not ISO_DATE.fullmatch(value):
         report.error(f"{field} must be an ISO date (YYYY-MM-DD).")
         return
     try:
