@@ -85,6 +85,22 @@ class ValidateDatasetTests(unittest.TestCase):
             report = validate_manifest(make_manifest(Path(temp), released=True))
             self.assertEqual(report.errors, [])
 
+    def test_dates_must_use_calendar_yyyy_mm_dd_format(self) -> None:
+        invalid_dates = ("20261024", "2026-W43-6", "2026-1-2", "2026-02-30")
+        for invalid_date in invalid_dates:
+            with self.subTest(value=invalid_date), tempfile.TemporaryDirectory() as temp:
+                manifest = make_manifest(Path(temp))
+                doc = json.loads(manifest.read_text(encoding="utf-8"))
+                doc["createdAt"] = invalid_date
+                manifest.write_text(json.dumps(doc), encoding="utf-8")
+                report = validate_manifest(manifest)
+                self.assertTrue(
+                    any("manifest.createdAt" in error and "ISO date (YYYY-MM-DD)" in error
+                        or "manifest.createdAt" in error and "valid ISO date (YYYY-MM-DD)" in error
+                        for error in report.errors),
+                    msg=f"Expected strict date-format error for {invalid_date!r}: {report.errors}",
+                )
+
     def test_checksum_mismatch_fails(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             manifest = make_manifest(Path(temp))
