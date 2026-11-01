@@ -51,13 +51,16 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. **Public-sector cybersecurity and privacy:** verify implementation of Decree 26-07, GIE accreditation scopes/status, public-sector procurement awards, incumbent vendor qualifications, managed-SOC pricing and whether organizations buy external audit, monitoring, incident response or compliance services. Resolve CERIST's 2026 notice/PDF date mismatch.
-2. **Cloud and compute:** verify current ARPCE authorization status and compare local infrastructure providers using real workload tests, published/contractual SLAs, GPU capacity, backup, security and total cost.
-3. **Data governance and trust:** verify publication of Decree 25-320's classification/cataloguing references, operational status of trust-service providers, implementing guidance under Law 25-11 and current ANPDP materials.
-4. **Sector workflows:** verify the CHU digitization target after 15 Nov 2026; check SNAI module rollout and data-access rules; map one manufacturing subsector's systems, workflow losses and procurement.
-5. **Language and agent technology:** inspect dataset rights, benchmark coverage, local domain performance and buyers for language evaluation, speech, entity resolution and agent assurance.
-6. **Competition:** test incumbent local and international products hands-on; follow feature launches, APIs, pricing, integration and customer support evidence.
-7. **Economics:** only size a specific buyer/workflow after volume, current cost, budget owner, channel reach and delivery capacity are established.
+1. **Public-sector cybersecurity and privacy:** verify Decree 26-07 implementation, GIE accreditation status, awarded procurement and incumbent qualifications.
+2. **Cloud and compute:** validate current ARPCE authorization, provider SLA/capacity and total cost on comparable workloads.
+3. **Data governance and trust:** verify technical references under Decree 25-320, trust-provider status and Law 25-11 implementation guidance.
+4. **Healthcare:** after the 15 Nov 2026 CHU target, verify rollout, live modules, daily usage, suppliers, awards and inter-facility exchange.
+5. **Agriculture:** verify SNAI module rollout/data access and paid field adoption/ROI for local agritech providers.
+6. **Manufacturing:** choose a subsector; map installed systems and quantify a measurable operational loss.
+7. **Payments:** track final PSP operating approvals, merchant APIs, settlement economics and the buyer need for non-regulated software.
+8. **Logistics/ports:** benchmark COD platforms, inspect courier integration reliability, and verify APCS governance, coverage and freight interfaces.
+9. **Construction/education/tourism:** verify portal usage and procurement, university platform experience/integration, and hotel/agency product adoption and payment/OTA integration.
+10. **Economics:** size only specific buyer/workflows once volume, budget, current cost, channel and delivery cost are established.
 
 ## Known gaps
 
@@ -88,6 +91,23 @@ CERIST's 2026 managed-cyber consultation is a procurement signal, but its linked
 
 [Full cybersecurity services and assurance map](15-CYBERSECURITY-SERVICES-LANDSCAPE.md).
 
+## Additional sector landscape update
+
+The next pass extends the map to payments, logistics, ports/customs, construction, higher education and tourism. [Full sector assessment](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md).
+
+- **Payments:** PSP Regulation 25-02 and Instruction 06-2025 define the regulated perimeter. Djezzy Payment Services is authorized to constitute as a PSP, but the Bank of Algeria says separate operating approval must follow. [S89–S91]
+- **Logistics:** ECOSERVICE, COD Scale and GHL target COD and fulfillment; courier-dz and DZBuild provide integration abstractions. Generic courier aggregation is not an open wedge by default. [S100–S104]
+- **Ports/customs:** SERPORT describes APCS as launched in 2021; ALCES services verified here are traveler-facing declarations/vehicle TPD. APCS governance, live port coverage and freight integration remain open. [S95–S97]
+- **Construction:** the public-works portal is adding contractor qualification/classification and engineering-office approval services. Check live usage and supplier contracts. [S98]
+- **Higher education:** Ministry sources report 391,018 students assigned through a 100%-digital 2026 orientation process, with an LLM assistant; metrics are Ministry-reported, not independently audited. [S92–S94]
+- **Tourism:** studies report payment/hotel-system fragmentation, while SAAFIR and Matares already target agency/hotel workflows. Generic agency ERP or hotel PMS is not an unoccupied category. [S99, S105–S106]
+
+### New research implications
+
+The public-sector digitization footprint is becoming substantial, but public platforms can be both enablers and incumbents. Search for complementary integration, migration, assurance and support needs rather than assume replacement opportunities.
+
+Last-mile logistics and COD operations are more crowded than a simple pain-point scan suggests. Port/freight logistics is distinct and needs its own technical and governance research.
+
 ## Sector landscape update
 
 The current sector pass covers agriculture, healthcare and manufacturing as three distinct markets. [Full sector map](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md).
@@ -117,6 +137,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
 - [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
 - [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
+- [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
