@@ -99,3 +99,11 @@ Do not authorize a broad product build until one paid or contractually committed
 - acceptable price and delivery model.
 
 The build decision should follow workflow evidence, not precede it.
+
+## 6. Competitive correction — document processing is a mature category
+
+AutoEntry and Dext already provide supplier-document capture, invoice extraction, duplicate controls and supplier-statement reconciliation, including matching to connected accounting software in Dext. Therefore these capabilities do not constitute a new product gap. [S19–S22]
+
+The current opportunity should be stated more narrowly: **local interoperability and cross-system exception control for a defined Algerian workflow**, if customer evidence and hands-on tests show that existing local and international alternatives fail to solve it at acceptable cost.
+
+This materially lowers confidence in the generic document-operations concept. The next step is comparative testing, not feature development.
