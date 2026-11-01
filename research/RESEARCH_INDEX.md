@@ -54,7 +54,7 @@ This is a research-priority map, not a quantified attractiveness ranking.
 1. **Public-sector cybersecurity and privacy:** verify implementation of Decree 26-07, GIE accreditation scopes/status, public-sector procurement awards, incumbent vendor qualifications, managed-SOC pricing and whether organizations buy external audit, monitoring, incident response or compliance services. Resolve CERIST's 2026 notice/PDF date mismatch.
 2. **Cloud and compute:** verify current ARPCE authorization status and compare local infrastructure providers using real workload tests, published/contractual SLAs, GPU capacity, backup, security and total cost.
 3. **Data governance and trust:** verify publication of Decree 25-320's classification/cataloguing references, operational status of trust-service providers, implementing guidance under Law 25-11 and current ANPDP materials.
-4. **Sector workflows:** map agriculture, healthcare, manufacturing, public works, finance, logistics and professional services from user/buyer through the actual workflow, records, software, failure costs and procurement route.
+4. **Sector workflows:** verify the CHU digitization target after 15 Nov 2026; check SNAI module rollout and data-access rules; map one manufacturing subsector's systems, workflow losses and procurement.
 5. **Language and agent technology:** inspect dataset rights, benchmark coverage, local domain performance and buyers for language evaluation, speech, entity resolution and agent assurance.
 6. **Competition:** test incumbent local and international products hands-on; follow feature launches, APIs, pricing, integration and customer support evidence.
 7. **Economics:** only size a specific buyer/workflow after volume, current cost, budget owner, channel reach and delivery capacity are established.
@@ -88,6 +88,18 @@ CERIST's 2026 managed-cyber consultation is a procurement signal, but its linked
 
 [Full cybersecurity services and assurance map](15-CYBERSECURITY-SERVICES-LANDSCAPE.md).
 
+## Sector landscape update
+
+The current sector pass covers agriculture, healthcare and manufacturing as three distinct markets. [Full sector map](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md).
+
+- **Agriculture:** SNAI has launched with a harvest/threshing module; other registries and modules are planned for progressive rollout. Agripreneurs lists 35 opportunity sheets, and local providers advertise crop advice, drone monitoring and IoT irrigation. These signals show activity, not paid adoption or farm-level ROI. [S67–S77]
+- **Healthcare:** the Ministry set a 15 November 2026 CHU digitization target and reported 2,355+ structures connected to fibre. The target is still in the future as of this research date; fibre connection is not proof of a live EHR. Local medical software providers already cover substantial practice/clinic/hospital features, so public rollout, integration, migration and security need investigation rather than another generic EHR. [S78–S85]
+- **Manufacturing:** two studies report gradual adoption and cost/skills barriers (47 responses from 230 firms approached in one; 102 companies in another). A single SPEEDWIN case documents three separate systems across production, sales/accounting and marketing. These are directional signals, not a representative national market estimate. [S86–S88]
+
+### Event-driven next checks
+
+After 15 November 2026, verify actual CHU rollout completion, live EHR modules, system suppliers, procurement awards and facility-level usage. For SNAI, verify actual rollout of future modules and access/data-sharing policy. For manufacturing, choose a subsector and quantify one recurring loss against installed systems.
+
 ## Latest landscape changes — 1 November 2026
 
 1. **Public-sector security has explicit organizational ownership.** Presidential Decree 26-07 requires a separate security and data-protection structure in public institutions, administrations and public bodies. It covers risk, audit, continuous monitoring, incident response, training and coordination with public procurement for security/confidentiality clauses in outsourced work. [S36]
@@ -104,6 +116,7 @@ CERIST's 2026 managed-cyber consultation is a procurement signal, but its linked
 - [Cloud, compute and cybersecurity landscape](13-CLOUD-COMPUTE-CYBERSECURITY.md)
 - [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
 - [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
+- [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
