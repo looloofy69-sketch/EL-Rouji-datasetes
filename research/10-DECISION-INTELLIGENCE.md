@@ -51,6 +51,33 @@ The language-technology landscape is richer than the earlier scan suggested:
 
 **Implication:** a defensible path may involve evaluation, localization, data quality and domain-specific components rather than training a broad foundation model. Commercial buyer and licensing remain open.
 
+### G. Public-sector security structures and procurement
+
+Presidential Decree 26-07, published in Official Journal No. 04 on 18 January 2026, requires each public institution, administration and public body to create a structure responsible for information-system security and personal-data protection, independent of the IT structure and attached to the organization's top official. Its tasks include security policy, risk mapping/remediation, security and cyber-resilience solutions, audits, continuous monitoring, immediate incident reporting, privacy-law coordination and staff training. [S36]
+
+The decree also connects the security structure with public procurement: it coordinates integration of information-security and confidentiality clauses when outsourcing is used. It specifies coordination with the national information-systems security agency and the national personal-data authority. [S36]
+
+**Implication:** a potential service market exists around audit readiness, security operations, risk registers, incident response, subcontractor assurance, training and privacy/security evidence. But this is not yet a measured buyer market. Need verify actual staffing, guidance, procurement budgets, vendor eligibility and contract awards.
+
+### H. Cloud, compute and managed infrastructure
+
+ARPCE's cloud-service page defines a general-authorization route for hosting/storage services, describing technical and commercial project documentation, infrastructure architecture, storage, backup, security systems and hosting premises. Its dated directory contains 20 providers, with four entries marked as being in a regularization process on the page. The directory displays March 2025 as its update date; recheck current status with ARPCE. [S37]
+
+A local provider map now includes:
+- AYRADE, whose stock-exchange profile reports cloud authorization and a 1 billion DZD 2026 public offering for data-center expansion. [S41]
+- ICOSNET, advertising local public cloud, VPS and dedicated NVIDIA GPU-as-a-Service. [S38]
+- AventureCloudz, launched by Djezzy, Algeria Venture and Taubyte as a developer cloud hosted on the Djezzy Cloud marketplace. The current website displays example apps, but public SLA, pricing, capacity and full production maturity are not established. [S39–S40]
+- Djezzy and Armonika's August 2026 partnership to develop sovereign-cloud and virtualization solutions. [S45]
+- CERIST, both a listed cloud operator and a public technical institution procuring GPU, SOC, backup/restore and cybersecurity services. [S37, S42–S44]
+
+**Implication:** commodity hosting is not an empty market. Investigate managed AI deployments, cloud migration, backup/recovery, GPU workload scheduling, specialized security, and integration on top of incumbent infrastructure before considering infrastructure capex. Determine how ARPCE authorization applies to a software-only SaaS or managed-service model before launch.
+
+### I. Procurement signals are not contract proof
+
+CERIST's 2026 procurement notices include GPU computing, SOC video-wall equipment, backup/restore, anti-DDoS and a 12-month managed cybersecurity service for audit, continuous monitoring and incident response. These are specific institutional demand signals. The notices alone do not establish awards, delivered systems, spend, renewal or a market-wide procurement volume. [S42–S44]
+
+**Implication:** monitor consultation, clarification/addendum, deadline, award, delivery/acceptance and renewal as distinct lifecycle states. An awarded contract and repeat purchase are stronger evidence than a notice.
+
 ## 2. Opportunity themes to keep open
 
 | Theme | What could be built or sold | What must be proven |
@@ -61,7 +88,7 @@ The language-technology landscape is richer than the earlier scan suggested:
 | Payments/fintech operations | Merchant integration, reconciliation, payment operations, dispute workflows, finance analytics | PSP/bank APIs, licensing boundary, merchant volumes and economics |
 | Sector-specific operations | Agriculture, health, manufacturing, public works or logistics workflow software | Specific buyer, process, existing systems, budget, data access and measurable problem |
 | Language technology | Speech/text evaluation, entity resolution, transcription QA, multilingual search and localized models | Dataset rights, field quality, funded buyer, representative evaluation and cost |
-| Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
+| Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |\n| Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
 ## 3. Current decision guardrails
 
@@ -86,3 +113,13 @@ Promote trust-service integration if authorized providers and usable APIs/partne
 Promote language technology if a funded buyer and lawful representative data can be secured.
 
 Promote a sector vertical only after observing a recurring workflow and validating current alternatives.
+
+
+## 5. New decision guardrails
+
+8. Treat the ARPCE cloud directory as a dated directory; verify current authorization and exact service scope with the regulator.
+9. Do not equate an infrastructure partnership, product demo or published roadmap with production availability or SLA.
+10. Do not treat tender notices as awards, delivery or recurring revenue; follow the full procurement lifecycle.
+11. Compare local cloud offerings on total cost per successful workload, including storage, network, support, backup, security, egress and compliance.
+12. Prefer partnership/workload layers over data-center or GPU capex until utilization, power, procurement and support economics are demonstrated.
+
