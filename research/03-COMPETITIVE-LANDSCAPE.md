@@ -60,3 +60,30 @@ For each serious competitor, obtain a real trial or structured demo and run the 
 10. API/export quality and failure recovery.
 
 Score observed field accuracy, exception recall, false positives, reviewer time, integrations, pricing, onboarding and support—not feature checkboxes.
+
+## 8. International document-workflow benchmarks
+
+The first product hypothesis must be narrowed further. Supplier-document intake, extraction, duplicate detection and statement-to-invoice reconciliation are established capabilities in international products:
+
+- **AutoEntry** captures purchase invoices, receipts, purchase credit notes, supplier statements, sales invoices, sales credits and bank statements. It extracts invoice totals, tax summaries and optional line items, and applies arithmetic checks. [S19]
+- **AutoEntry supplier reconciliation** matches uploaded supplier statements against purchase invoices in its workspace. Its help material says the workflow is limited to purchases/supplier statements and remains separate from reconciliation performed in the connected accounting product. [S20]
+- **Dext** reconciles supplier statements against invoices in Dext and connected accounting software using supplier and reference data, with amount/date fallbacks. [S21]
+- **Dext duplicate detection** compares extracted fields using type-specific rules; its own documentation describes cases where missing or inconsistent extraction fields allow duplicates through. The rules are scoped to Dext cost items rather than every record already posted into a ledger. [S22]
+
+**Consequence:** extraction, duplicate detection and supplier-statement matching are not defensible features by themselves. A proposed product must show a specific local or vertical advantage that existing suites do not already deliver.
+
+### Remaining gap hypotheses to test
+
+1. **Local-system interoperability:** usable imports/exports or APIs across the accounting, banking, POS, e-commerce and courier systems actually used by target Algerian firms.
+2. **Local document interpretation:** measured performance on Algerian invoice layouts, stamps, supplier identifiers, Arabic/French/mixed text and locally used forms—not just language support claims.
+3. **Cross-system exception control:** reconciliation where the relevant evidence is spread across separate accounting, procurement, inventory, delivery, payment and messaging systems.
+4. **Local rule transparency:** configurable, reviewer-visible checks that are useful to the accountant/operator without pretending to provide legal certification.
+5. **Portfolio-level exception operations:** prioritization, reminders, evidence requests, reviewer assignment and audit history across many client entities.
+
+No evidence yet establishes that any of these gaps are unserved in Algeria. They are questions for direct competitor testing and customer workflow observation.
+
+### Required competitor test
+
+The same permissioned document cases should be run through local products (Fisira, Facturili, DZ Compta where accessible) and international benchmarks (Dext, AutoEntry where accessible). Record actual inputs supported, extraction accuracy, duplicate/statement match behavior, connected accounting systems, export/API limits, exception handling, reviewer time, price and data-hosting terms.
+
+Do not infer missing functionality from marketing pages or from the absence of public API documentation.
