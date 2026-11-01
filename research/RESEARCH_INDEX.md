@@ -51,20 +51,23 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. Map an accountant's monthly supplier-document workflow from receipt to posted entry and client follow-up.
-2. Map a distributor's procurement-to-payment workflow, including invoice, PO, delivery note, return and settlement.
-3. Identify exceptions that are frequent, costly, difficult to resolve and not handled adequately by existing products.
-4. Obtain permissioned representative samples and establish human-reviewed ground truth before measuring extraction.
-5. Compare competitor products in hands-on tests, not by feature-page claims.
-6. Model onboarding, human review, support, storage, inference and integration cost.
-7. Seek a paid pilot before building a broad platform.
+1. **Public-sector cybersecurity and privacy:** check whether the structures required by Decree 26-07 are staffed, how procurement clauses are applied, which tenders are awarded, and whether organizations buy external audit, monitoring, incident response or compliance services.
+2. **Cloud and compute:** verify current ARPCE authorization status and compare local infrastructure providers using real workload tests, published/contractual SLAs, GPU capacity, backup, security and total cost.
+3. **Data governance and trust:** verify publication of Decree 25-320's classification/cataloguing references, operational status of trust-service providers, implementing guidance under Law 25-11 and current ANPDP materials.
+4. **Sector workflows:** map agriculture, healthcare, manufacturing, public works, finance, logistics and professional services from user/buyer through the actual workflow, records, software, failure costs and procurement route.
+5. **Language and agent technology:** inspect dataset rights, benchmark coverage, local domain performance and buyers for language evaluation, speech, entity resolution and agent assurance.
+6. **Competition:** test incumbent local and international products hands-on; follow feature launches, APIs, pricing, integration and customer support evidence.
+7. **Economics:** only size a specific buyer/workflow after volume, current cost, budget owner, channel reach and delivery capacity are established.
 
 ## Known gaps
 
 - No representative Algerian SME AI-adoption survey is established here.
 - No reliable current TAM/SAM/SOM calculation has been completed.
 - No current census of active accounting practices and their client portfolios has been verified.
-- Competitor functionality, customer counts and uptime are vendor-reported unless independently tested.
+- Competitor functionality, customer counts, cloud capacity and uptime are vendor-reported unless independently tested.
+- Public-sector procurement notices do not establish award, delivery, spend or renewal.
+- ARPCE's cloud-operator directory is dated; current provider authorization must be checked directly.
+- No utilization, price/performance or SLA benchmark of local GPU/cloud offerings has been completed.
 - No customer interviews, workflow observations, real document samples, paid pilots or renewal evidence are recorded.
 - Legal interpretations are research notes, not legal advice; implementation requires qualified Algerian tax/accounting review.
 
