@@ -61,3 +61,9 @@ These are qualitative judgments, not measured market scores.
 - Competitor functionality, customer counts and uptime are vendor-reported unless independently tested.
 - No customer interviews, workflow observations, real document samples, paid pilots or renewal evidence are recorded.
 - Legal interpretations are research notes, not legal advice; implementation requires qualified Algerian tax/accounting review.
+
+## Latest competitive correction
+
+The document-operations idea has been narrowed again. AutoEntry and Dext already offer supplier document capture, extraction, duplicate controls and supplier-statement reconciliation. The concept is therefore **not** a novel generic document-processing product. The only remaining hypothesis is a locally differentiated interoperability/exception-control workflow, pending hands-on product comparison and direct workflow evidence. [S19–S22]
+
+This reduces confidence in the idea and strengthens the no-broad-build decision.
