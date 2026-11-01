@@ -115,3 +115,15 @@ OCR or the LLM component alone is not a durable moat.
 5. Can critical-field precision reduce total reviewer effort?
 6. What data/retention terms can buyers authorize?
 7. Can pricing exceed support and integration cost?
+
+## 9. Competitive boundary update
+
+This hypothesis is narrower than a general invoice capture or supplier statement reconciliation tool. AutoEntry and Dext already advertise and document those capabilities, including line-item extraction, duplicate detection and supplier-statement matching. [S19–S22]
+
+A potential local product must therefore demonstrate at least one of the following against actual alternatives:
+- integration with local accounting or operational systems that users already rely on;
+- reliable extraction/validation on local document patterns where existing software fails;
+- exception resolution across multiple disconnected systems rather than another isolated document inbox;
+- a materially better workflow for a defined local vertical or accountant portfolio.
+
+These remain unproven. The product hypothesis should be rejected if hands-on tests show the existing systems already solve the target workflow with comparable reviewer effort and total cost.
