@@ -1,0 +1,88 @@
+# Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
+
+**As of:** 1 November 2026  
+**Status:** living decision register; no product commitment implied.
+
+## 1. Cross-landscape findings that now matter
+
+### A. National data governance and public interoperability
+
+Presidential Decree 25-320 creates a national framework composed of data-classification, source-cataloguing and interoperability components. It defines data quality across completeness, consistency between systems, accuracy and timeliness. The national interoperability system is intended for public institutions and public-service entities; the decree describes a secure interconnection network separate from the public internet. Access by public-service organizations requires coordination, classification/cataloguing and source approval for a stated purpose. [S23]
+
+On 20 September 2026, the Council of Ministers ordered preparation of a further presidential decree covering secure digital interconnection, sector representation and inter-wilaya links. This is an official policy signal, not evidence that the later decree has already been promulgated or that private suppliers can access the network. [S26]
+
+**Implication:** create a public-sector data governance/interoperability research lane. Study data classification, catalogues, quality, metadata, lineage, integration, security and procurement. Do not assume a commercial API or unrestricted public data access.
+
+### B. Privacy operations and data accountability
+
+Law 25-11 amends Algeria's personal-data law. Its text introduces processing-activity registers for controllers and processors, automated logs for personal-data operations, a data-protection-officer role, and impact assessments where processing is likely to create high risks, including when new technologies are used. The automated log provisions identify operations such as collection, storage, extraction, consultation, transmission, matching/interconnection, encryption and deletion; their application details are to be set by regulation. [S25]
+
+**Implication:** privacy operations, data mapping, processing records, audit trails, DPO workflows and impact-assessment support deserve a separate market and legal research lane. Do not assume a software-only product or an enforcement timetable. Determine implementing rules, ANPDP guidance, affected organizations, current compliance practices and who pays.
+
+### C. Electronic trust infrastructure
+
+Law 26-02 covers trust services and electronic identification. The qualified electronic signature is the form assimilated to a handwritten signature; qualified seals and timestamps carry specific integrity/origin/time presumptions; qualified electronic registered delivery has evidence-related presumptions. Trust-service providers face authorization, audit and operational requirements. Article 27 requires data collected by trust-service providers to be hosted nationally, subject to applicable law for transfers abroad. [S24]
+
+**Implication:** investigate the provider ecosystem, trust lists, implementation rules and integration opportunities. A startup may be better positioned as an application/integration layer using authorized providers than as the regulated trust provider itself. The provider route is a regulated activity, not a normal SaaS feature.
+
+### D. Sector digitalization is uneven
+
+- The national agricultural information system was launched on 29 June 2026 to provide updated sector data for central and local governance. This establishes a government modernization initiative; access rights, interfaces, data completeness and private-sector opportunities remain unknown. [S31]
+- In September 2026, the Health Ministry reported that nationwide health digitization, particularly electronic medical records, was nearing a final deployment phase. This is a programme-status statement; actual facility coverage, interoperability, uptime, procurement and vendor access need verification. [S32]
+- Public-works qualification/classification and engineering-office approval services were being added to a national digital-services portal in September 2026. This shows digitization of a specific administrative workflow, not proof of an open market for replacement portals. [S33]
+- Small Algerian manufacturing studies indicate early or gradual digital adoption, with cost, skills and technology/organizational readiness barriers. Samples are limited and non-equivalent, so they are signals for further research rather than population estimates. [S34]
+
+**Implication:** research by sector and workflow. The public-sector project may be a buyer, a source of standards, a partner channel or a competitor to private services; distinguish these roles.
+
+### E. Payments and fintech infrastructure
+
+Bank of Algeria materials list the 2025 framework for payment service providers, and a 2026 regulation establishing the National Payments Committee. The Bank's communiqué says Djezzy Payment Services received authorization to constitute as a PSP, to be followed by an application for operating approval. This is an ecosystem-opening signal, not evidence that the PSP was already fully licensed or live. [S35]
+
+**Implication:** map merchant acquiring, payment providers, banks, settlement, disputes, APIs, reconciliation and regulation. Do not build a payment institution or handle regulated funds without the required approvals.
+
+### F. Algerian language technology
+
+The language-technology landscape is richer than the earlier scan suggested:
+- NADI 2026 covers robust ASR, dialect identification, dialectal TTS, speech translation and spoken understanding across 11 countries, with blind test sets and public leaderboards. [S27]
+- Arab Voices provides a standardized view of 31 dialectal Arabic speech datasets across 14 dialects. It can support comparative evaluation, but must not be assumed to cover every Algerian variety or permit unrestricted reuse. [S28]
+- ELNER-DZ is a publicly listed Algerian Arabic/Arabizi NER and entity-linking dataset; its license, data construction, source composition and evaluation quality need inspection before operational use. [S29]
+- A 2026 study extends work on Algerian Darija NER/entity linking; the article is restricted-access, so methods and license cannot yet be fully inspected. [S30]
+- A recent Algerian ASR paper reports a large remaining error rate on code-switched speech and named entities, even after system improvements. [S12]
+
+**Implication:** a defensible path may involve evaluation, localization, data quality and domain-specific components rather than training a broad foundation model. Commercial buyer and licensing remain open.
+
+## 2. Opportunity themes to keep open
+
+| Theme | What could be built or sold | What must be proven |
+|---|---|---|
+| Data governance and privacy operations | Data inventories, processing registers, flow maps, audit logs, DPIA workflows, DPO tools or managed services | Implementing rules, enforcement, buyer, budget and willingness to pay |
+| Trust-service ecosystem | Application integrations, signature/seal validation, timestamp workflows, evidence preservation, provider integrations | Authorized providers, standards, APIs, fees, trust-list status and market adoption |
+| Public data interoperability | Data catalogs, data quality, metadata, integration adapters, security and implementation support | Scope of public projects, procurement, accreditation, access and vendor eligibility |
+| Payments/fintech operations | Merchant integration, reconciliation, payment operations, dispute workflows, finance analytics | PSP/bank APIs, licensing boundary, merchant volumes and economics |
+| Sector-specific operations | Agriculture, health, manufacturing, public works or logistics workflow software | Specific buyer, process, existing systems, budget, data access and measurable problem |
+| Language technology | Speech/text evaluation, entity resolution, transcription QA, multilingual search and localized models | Dataset rights, field quality, funded buyer, representative evaluation and cost |
+| Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
+
+## 3. Current decision guardrails
+
+1. No commitment to the document-operations hypothesis until it beats local and international competitors on a specific workflow.
+2. Do not treat government digitization announcements as open procurement or accessible data.
+3. Do not treat regulatory obligations as a paying market until the affected organization, enforcement path, budget owner and purchase route are identified.
+4. Do not treat a dataset's public listing as model-training permission; inspect license, provenance, terms and quality.
+5. Do not equate a PSP's authorization to constitute with final authorization to operate.
+6. Do not equate technical need with a profitable business.
+7. Keep product, services, infrastructure and integration business models in scope.
+
+## 4. Reopening conditions
+
+Reopen document operations if hands-on competitor testing exposes a costly local exception that incumbents fail to handle.
+
+Promote privacy operations if implementing rules, ANPDP enforcement/guidance, organizational buyers and budget evidence converge.
+
+Promote public interoperability if the new decree, technical references, secure network scope, procurement notices and supplier qualification become observable.
+
+Promote trust-service integration if authorized providers and usable APIs/partner channels become available.
+
+Promote language technology if a funded buyer and lawful representative data can be secured.
+
+Promote a sector vertical only after observing a recurring workflow and validating current alternatives.
