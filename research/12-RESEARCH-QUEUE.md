@@ -38,6 +38,33 @@ For each sector identify buyer/user, top recurring workflows, source systems, do
 - Cross-check GIE register expiry dates that conflict with “Valid” statuses directly with GIE.
 - Verify the certificate scope and issuer for providers advertising ISO 27001-certified SOC/CSIRT services.
 
+## Priority 4 — agriculture, healthcare and manufacturing
+
+### Agriculture
+- Verify which SNAI modules are actually in production and what the data-sharing/API policy permits.
+- Identify farm, crop and wilaya segments with installed and paying agritech users.
+- Test FITO, AirCrop, Felatech and SIPTECH offers for actual availability, field coverage, reliability and ROI.
+- Determine install/maintenance cost per farm or season, farmer willingness to pay, channel partner and seasonality.
+- Separate Agripreneurs opportunity sheets and challenge projects from operating businesses and paid demand.
+
+### Healthcare
+- After the **15 November 2026** CHU target, verify facility-by-facility deployment, live EHR modules, daily users and inter-facility exchange.
+- Find supplier names, procurement awards, contract values, acceptance criteria, renewals and support arrangements.
+- Map EHR, PACS/RIS, LIS, pharmacy, telemedicine and patient identity/consent integration.
+- Hands-on compare SmartAvicenne, eSiha, CabiSanté, Hakim-DZ, Nawi-Med, MCM Systems and COMPOS; distinguish shipped modules from roadmap items.
+- Review data protection, local hosting/backup, encryption, access, audit and incident-response controls before any health-data workflow.
+
+### Manufacturing
+- Select two subsectors (e.g. food processing, metalworking, plastics or building materials) and map workflows end to end.
+- Identify installed ERP/MES/CMMS/WMS, machine vendors, systems integrators and point solutions.
+- Quantify one measurable loss per workflow (downtime, scrap, rework, stockout, energy, delayed delivery or manual reporting).
+- Compare product, integration, managed service and financing/lease models; include plant visits and OT constraints.
+
+### Evidence limits
+- Do not equate fibre connectivity with live clinical records.
+- Do not treat startup programme registration, opportunity sheets or product roadmaps as paid adoption.
+- Do not extrapolate a single manufacturing case or small survey to all Algerian factories.
+
 ## Priority 5 — competition and alternatives
 
 For every promising workflow map:
