@@ -68,7 +68,8 @@ A local provider map now includes:
 - ICOSNET, advertising local public cloud, VPS and dedicated NVIDIA GPU-as-a-Service. [S38]
 - AventureCloudz, launched by Djezzy, Algeria Venture and Taubyte as a developer cloud hosted on the Djezzy Cloud marketplace. The current website displays example apps, but public SLA, pricing, capacity and full production maturity are not established. [S39–S40]
 - Djezzy and Armonika's August 2026 partnership to develop sovereign-cloud and virtualization solutions. [S45]
-- CERIST, both a listed cloud operator and a public technical institution procuring GPU, SOC, backup/restore and cybersecurity services. [S37, S42–S44]
+- CERIST, an ARPCE-authorized cloud operator that advertises VPS, Swift/S3 object storage, NFS/SMB, backups, virtual networking, VPN, firewall and load balancing; it also procures GPU, SOC, backup/restore and cybersecurity services. [S37, S42–S44, S47]
+- eBS, advertising hosting, managed infrastructure, backup, security and a Tier III 85 m² data-center facility at Sidi Abdellah; details are vendor claims and some pages may be dated. [S48–S49]
 
 **Implication:** commodity hosting is not an empty market. Investigate managed AI deployments, cloud migration, backup/recovery, GPU workload scheduling, specialized security, and integration on top of incumbent infrastructure before considering infrastructure capex. Determine how ARPCE authorization applies to a software-only SaaS or managed-service model before launch.
 
