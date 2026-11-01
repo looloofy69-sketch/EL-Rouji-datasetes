@@ -76,13 +76,13 @@ Even these gaps require workflow evidence and competitor tests.
 
 ### 4.1 Port community systems
 
-SERPORT's AL MARSA page describes **APCS (Algerian Port Community System)** as launched in 2021 and intended to centralize information exchange among shipping companies, port authorities and operators. Described functions include a common portal for Algerian ports, e-payment, logistics, billing and vessel-call management. The page also describes a broader PMS/Smart Port/BIM programme with blockchain, IoT, AI, geospatial and tracking elements. Distinguish the APCS core platform from the broader modernization vision and verify which features are actually deployed and used at each port. [S94]
+SERPORT's AL MARSA page describes **APCS (Algerian Port Community System)** as launched in 2021 and intended to centralize information exchange among shipping companies, port authorities and operators. Described functions include a common portal for Algerian ports, e-payment, logistics, billing and vessel-call management. The page also describes a broader PMS/Smart Port/BIM programme with blockchain, IoT, AI, geospatial and tracking elements. Distinguish the APCS core platform from the broader modernization vision and verify which features are actually deployed and used at each port. [S95]
 
-A 2025 legal study on Executive Decree 21-147 and the port community platform argues that the framework established a digital port-management concept but raises a governance issue around the absence/unclear operation of the legally designated managing entity. This is an academic analysis, not a regulator ruling; it creates a diligence question about operational governance, responsibilities and platform scope. [S95]
+A 2025 legal study on Executive Decree 21-147 and the port community platform argues that the framework established a digital port-management concept but raises a governance issue around the absence/unclear operation of the legally designated managing entity. This is an academic analysis, not a regulator ruling; it creates a diligence question about operational governance, responsibilities and platform scope. [S96]
 
 ### 4.2 Customs system ALCES
 
-Official Algerian embassy notices describe the **Algerian Customs Electronic System (ALCES)** external portal for travelers to create accounts and remotely declare foreign currency/valuables and personal belongings, or subscribe to a customs transit/pass document (TPD) for vehicles for temporary entry/exit. These are specific traveler-facing services. The material reviewed does not establish that ALCES is a fully integrated freight-import/export single window or disclose public APIs for third-party vendors. Do not generalize this service into claims about commercial freight clearance. [S96]
+Official Algerian embassy notices describe the **Algerian Customs Electronic System (ALCES)** external portal for travelers to create accounts and remotely declare foreign currency/valuables and personal belongings, or subscribe to a customs transit/pass document (TPD) for vehicles for temporary entry/exit. These are specific traveler-facing services. The material reviewed does not establish that ALCES is a fully integrated freight-import/export single window or disclose public APIs for third-party vendors. Do not generalize this service into claims about commercial freight clearance. [S97]
 
 ### 4.3 Research questions
 
@@ -95,7 +95,7 @@ Official Algerian embassy notices describe the **Algerian Customs Electronic Sys
 
 ## 5. Construction and public works
 
-APS reported on 1 September 2026 that the Ministry of Public Works and Basic Infrastructure's digital portal was to add services for submission of professional qualification/classification files for construction companies and accreditation files for private engineering offices through the national digital-services portal, with the new services scheduled from the following Sunday. [S97]
+APS reported on 1 September 2026 that the Ministry of Public Works and Basic Infrastructure's digital portal was to add services for submission of professional qualification/classification files for construction companies and accreditation files for private engineering offices through the national digital-services portal, with the new services scheduled from the following Sunday. [S98]
 
 This is a concrete administrative workflow involving company records, qualifications, document submissions, approvals and status. It may create needs around applicant-side document preparation, integration, notifications and professional-record management. But the public portal itself is a government service and may displace standalone administrative tools.
 
@@ -117,11 +117,11 @@ The Ministry's platform directory also lists student orientation, student record
 
 ### 7.1 Sector evidence and current products
 
-A 2026 Algerian tourism digital-transformation study analyzing indicators from 2020–2025 reports a gap between mature foundational connectivity and a fragmented tourism-specific digital ecosystem. It identifies low interoperability between payment gateways and hospitality-management systems and weak data-driven destination marketing. It is a descriptive/analytical study, not a direct willingness-to-pay survey of hotels or agencies. [S98]
+A 2026 Algerian tourism digital-transformation study analyzing indicators from 2020–2025 reports a gap between mature foundational connectivity and a fragmented tourism-specific digital ecosystem. It identifies low interoperability between payment gateways and hospitality-management systems and weak data-driven destination marketing. It is a descriptive/analytical study, not a direct willingness-to-pay survey of hotels or agencies. [S99]
 
-**SAAFIR** by SARL Whenrak markets an all-in-one SaaS for Algerian travel agencies: reservations, accounting, group tours, payroll, schedules, contracts, tasks, inter-agency network, Omra/Hadj workflows, multi-branch analytics and an AI assistant/document extraction. Its company page says the software is designed for Algerian travel agencies and operated by Whenrak. Deployment count, customer usage, booking integrations and commercial retention are not established. [S99]
+**SAAFIR** by SARL Whenrak markets an all-in-one SaaS for Algerian travel agencies: reservations, accounting, group tours, payroll, schedules, contracts, tasks, inter-agency network, Omra/Hadj workflows, multi-branch analytics and an AI assistant/document extraction. Its company page says the software is designed for Algerian travel agencies and operated by Whenrak. Deployment count, customer usage, booking integrations and commercial retention are not established. [S105]
 
-**Matares** markets an AI-native property-management system for Algerian hotels covering reservations, reception, housekeeping, invoicing, occupancy/revenue reporting and channel management. It advertises French-language operation, local support and hotel onboarding. These are product statements; confirm production references, OTA connections, local tax/accounting behavior, uptime and adoption. [S100]
+**Matares** markets an AI-native property-management system for Algerian hotels covering reservations, reception, housekeeping, invoicing, occupancy/revenue reporting and channel management. It advertises French-language operation, local support and hotel onboarding. These are product statements; confirm production references, OTA connections, local tax/accounting behavior, uptime and adoption. [S106]
 
 ### 7.2 Tourism/hospitality workflows
 
