@@ -24,14 +24,14 @@ Links point to primary sources where available. Vendor pages document public pos
 | S17 | DZ Compta, [Official product page](https://dzcompta.cloud/) | Accessed 1 Nov 2026 | C | Advertised practice workflows/features; maturity and claims require verification. |
 | S18 | Journal officiel, [Official Journal No. 88 — Finance Law 2026, Law No. 25-17](https://www.joradp.dz/TRV/FLFin.pdf) | 31 Dec 2025 | A | Primary legal text; application to taxpayers/providers requires qualified local review. |
 
+| S19 | AutoEntry, [What does AutoEntry capture?](https://help.autoentry.com/en/articles/1782618-what-is-autoentry) and [invoice extraction overview](https://www.autoentry.com/invoice-data-extraction) | Accessed 1 Nov 2026 | C | Vendor documentation for supported document types, extraction and arithmetic validation. |
+| S20 | AutoEntry Help Center, [Reconcile a supplier statement](https://help.autoentry.com/en/articles/2459511-reconcile-a-supplier-statement) | Updated recently; accessed 1 Nov 2026 | C | Vendor documentation; reconciliation is limited to purchases/supplier statements and is separate from the connected accounting product's reconciliation. |
+| S21 | Dext Help Centre, [Supplier statement extraction and reconciliation](https://help.dext.com/en/articles/183198-reconcile-supplier-statements-in-dext) | Updated recently; accessed 1 Nov 2026 | C | Vendor documentation for statement matching with invoices in Dext and connected accounting software. |
+| S22 | Dext Help Centre, [Duplicate detection rules](https://help.dext.com/en/articles/841387-how-does-dext-decide-two-cost-items-are-duplicates) and [duplicate handling](https://help.dext.com/en/articles/216124-how-dext-handles-duplicate-cost-documents) | Updated Sep 2026; accessed 1 Nov 2026 | C | Vendor documentation; useful for identifying feature scope and known rule limitations, not independent accuracy testing. |
+
 ## Source-use notes
 
 - Vendor customer counts, feature counts, uptime, model accuracy and savings claims are not audited facts.
 - Preserve date, geography, denominator and methodology when reusing statistics.
 - Sources do not provide a reliable current addressable-market estimate for the proposed document-operations product.
 - Dataset availability does not imply permission to redistribute, retrieve or train on the dataset.
-
-| S19 | AutoEntry, [What does AutoEntry capture?](https://help.autoentry.com/en/articles/1782618-what-is-autoentry) and [invoice extraction overview](https://www.autoentry.com/invoice-data-extraction) | Accessed 1 Nov 2026 | C | Vendor documentation for supported document types, extraction and arithmetic validation. |
-| S20 | AutoEntry Help Center, [Reconcile a supplier statement](https://help.autoentry.com/en/articles/2459511-reconcile-a-supplier-statement) | Updated recently; accessed 1 Nov 2026 | C | Vendor documentation; reconciliation is limited to purchases/supplier statements and is separate from the connected accounting product's reconciliation. |
-| S21 | Dext Help Centre, [Supplier statement extraction and reconciliation](https://help.dext.com/en/articles/183198-reconcile-supplier-statements-in-dext) | Updated recently; accessed 1 Nov 2026 | C | Vendor documentation for statement matching with invoices in Dext and connected accounting software. |
-| S22 | Dext Help Centre, [Duplicate detection rules](https://help.dext.com/en/articles/841387-how-does-dext-decide-two-cost-items-are-duplicates) and [duplicate handling](https://help.dext.com/en/articles/216124-how-dext-handles-duplicate-cost-documents) | Updated Sep 2026; accessed 1 Nov 2026 | C | Vendor documentation; useful for identifying feature scope and known rule limitations, not independent accuracy testing. |
