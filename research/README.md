@@ -48,6 +48,7 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Cloud, compute and cybersecurity landscape](13-CLOUD-COMPUTE-CYBERSECURITY.md)
 - [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
 - [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
+- [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
 - [Source register](SOURCES.md)
 
 ## Change control
