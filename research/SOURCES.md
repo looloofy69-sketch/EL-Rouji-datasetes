@@ -1,6 +1,8 @@
 # Source Register
+
 **Research access date:** 1 November 2026  
 Links point to primary sources where available. Vendor pages document public positioning, not independent product audits.
+
 | ID | Source | Date | Quality | Use and caveat |
 |---|---|---|---|---|
 | S01 | UK Department for Business, [AI Adoption Survey 2026 — executive summary](https://www.gov.uk/government/publications/ai-adoption-survey-2026/ai-adoption-survey-report-2026-executive-summary) | Published 29 Oct 2026; fieldwork Jan–Apr 2026 | A | Representative UK business survey; not an Algeria estimate. |
