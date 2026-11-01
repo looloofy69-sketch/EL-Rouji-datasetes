@@ -55,9 +55,18 @@ The AventureCloudz site describes a developer cloud with Git-based deployment, c
 
 On 24 August 2026, Djezzy announced a partnership with Armonika under Algeria Venture to develop sovereign-cloud and infrastructure-virtualization solutions. Djezzy describes Armonika's software as including virtualization, orchestration, cloud services and automation. This is a strategic partnership announcement, not proof that a complete production service has been delivered or commercially adopted. [S45]
 
-### CERIST and public research infrastructure
+### CERIST Cloud Services and public research infrastructure
 
-CERIST appears in ARPCE's cloud operator directory. Its 2026 procurement notices provide useful demand signals:
+CERIST appears in ARPCE's cloud operator directory and states on its Cloud Services site that it is authorized by ARPCE to provide cloud hosting/storage. Its public feature page advertises:
+- VPS configurations from 1 vCPU / 2 GB RAM / 20 GB disk through 6 vCPU / 12 GB RAM / 120 GB disk, with custom configurations;
+- block storage, NFS/SMB shared storage and Swift/S3-compatible object storage;
+- backup and snapshots;
+- virtual networks and routers, IPAM/DHCP/DNS, VPN, firewall-as-a-service and L4/L7 load balancing;
+- backup/restore tooling compatible with multiple hypervisors and virtualized environments.
+
+This is a substantial local IaaS baseline, not a narrow compute-only offer. Pricing, throughput, contractual SLA, support response, capacity, data-location attestations and production performance were not established by the feature page. Treat the capabilities as provider-published until tested. [S47]
+
+CERIST's 2026 procurement notices also provide institutional demand signals:
 - GPU workstation and GPU-card acquisition for data analysis; one consultation specified compatibility with a NVIDIA Blackwell Workstation 96 GB-class card;
 - a SOC video-wall procurement;
 - backup/restore software, installation, three-year publisher support and training;
@@ -65,6 +74,12 @@ CERIST appears in ARPCE's cloud operator directory. Its 2026 procurement notices
 - managed anti-DDoS service selection.
 
 These are procurement consultations/notices, not proof that each contract was awarded, delivered or renewed. They demonstrate one research institution's concrete purchasing requirements, not national market size. [S42–S44]
+
+
+### eBS — hosting, managed operations and data-center engineering
+
+eBS advertises hosting, virtual/physical servers, monitoring, maintenance, server security, backup and managed services. It describes its data center at the Sidi Abdellah Cyber Park as 85 m², with a 35 m² production room and a 50 m² extension room, and identifies the facility as Tier III. It also markets data-center design, construction, fit-out, engineering and maintenance. These are company-published claims; independent certification, current operating capacity, power/redundancy design, SLA and utilization remain unverified. Some company pages show older copyright dates, so current product/service status should be confirmed directly. [S48–S49]
+
 
 ## 4. Cybersecurity policy and institutional operating model
 
