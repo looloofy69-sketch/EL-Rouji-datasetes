@@ -65,6 +65,40 @@ For each sector identify buyer/user, top recurring workflows, source systems, do
 - Do not treat startup programme registration, opportunity sheets or product roadmaps as paid adoption.
 - Do not extrapolate a single manufacturing case or small survey to all Algerian factories.
 
+## Priority 5 — payments, logistics, ports and customs
+
+### Payments
+- Verify each PSP's state: authorization to constitute, application for operating approval, approved, operational and live merchant products.
+- Inspect Regulation 25-02 and Instruction 06-2025 for allowed services, limits, agent models, KYC/AML and technology controls.
+- Map banks/acquirers, CIB/Edahabia, mobile/postal services and PSP providers; collect developer docs, API access, fees, settlement and dispute processes.
+- Identify merchant software needs that do not require becoming a PSP: checkout integration, reconciliation, returns, chargeback/dispute evidence and payment-to-invoice matching.
+
+### Logistics and ports
+- Test ECOSERVICE, COD Scale and GHL with real workflow cases and comparable data; verify return rates, delivery definitions, COD payout times, integration failures and service fees.
+- Inspect courier-dz tests, adapter completeness, release cadence, licensing and API quotas; test DZBuild's shipping API availability, error behavior and reliability.
+- Separate last-mile COD from B2B freight, warehouses, cold chain and port operations.
+- Verify APCS implementation, operator/governance, port coverage, interfaces, adoption and service levels.
+- Resolve the legal/operational status of the port-community system under Decree 21-147.
+- Establish exactly which ALCES functions cover commercial freight versus traveler declarations and vehicle TPD.
+
+## Priority 6 — construction, education and tourism
+
+### Construction/public works
+- Verify launch and actual usage of contractor qualification/classification and engineering-office approval services on the national portal.
+- Map tender/bid preparation, subcontractor qualification, site records, materials, progress claims and payment certificates.
+- Identify government portal integration boundaries and the existing construction ERP/BIM/project-management vendors.
+
+### Higher education
+- Test the MESRS orientation LLM on correctness, coverage, source provenance, hallucinations, accessibility and peak-load behavior.
+- Map campus-level student records, scheduling, examinations, certificates, research administration, alumni and university-life systems.
+- Distinguish national systems from institution-specific products; investigate integration rather than replacement by default.
+
+### Tourism/hospitality
+- Trial SAAFIR and Matares, document pricing and modules, verify active customers, OTA/channel manager integration, payment/gateway support, accounting/tax behavior and support.
+- Map travel agency, hotel, tour operator and destination workflows separately.
+- Validate the payment/hotel-system fragmentation claim with actual establishments and current product configurations.
+- Test seasonality, occupancy and willingness to pay before estimating SaaS economics.
+
 ## Priority 5 — competition and alternatives
 
 For every promising workflow map:
