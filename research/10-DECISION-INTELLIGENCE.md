@@ -79,6 +79,16 @@ CERIST's 2026 procurement notices include GPU computing, SOC video-wall equipmen
 
 **Implication:** monitor consultation, clarification/addendum, deadline, award, delivery/acceptance and renewal as distinct lifecycle states. An awarded contract and repeat purchase are stronger evidence than a notice.
 
+### J. Cybersecurity services, accreditation and delivery competition
+
+The provider field now includes broad telco/cloud/integrator channels (Ooredoo, Icosnet, AYRADE, Djezzy/GDSS), specialist cyber/GRC firms (Intervalle, UNIDEES, CYBEARS, Keystone, MN Advising, 3S Pay), international assurance/certification providers (SGS, Mazars) and cross-border boutiques (CYBERWAVE). Their advertised scopes overlap in audit, GRC, SOC/MDR, incident response, training, cloud security and payment assessment. Vendor capabilities and operating performance remain unverified unless independently tested. [S50–S60, S64, S66]
+
+GIE Monétique's approved-evaluation register lists providers and exact accreditation scopes for payment-system homologation. This is a meaningful entry barrier for specified payment evaluation work, but it is not a universal cybersecurity licence. The register contains expiry/status inconsistencies (including records past their stated expiry but still labelled “Valide”); confirm all credentials with GIE before relying on them. Its process describes a dossier, review, potential pilot with a GIE stakeholder, evaluation and scope-specific approval. [S50–S51]
+
+**Implication:** generic cybersecurity services are already supplied by several local and international providers. Differentiation must be tested in a specific vertical, operating model, response-time/service guarantee, deployment constraint, productized evidence workflow or qualification scope. 24/7 SOC/MDR has high staffing, tooling and liability costs; do not infer attractive economics from advertised service menus.
+
+CERIST's page lists a 2026 managed-cybersecurity consultation, but its linked PDF extracted text ends with a 30 October 2024 deadline. Treat the specification as mismatched/stale until CERIST confirms the correct file. The notice establishes a procurement lead, not an award or current technical requirement. [S62–S63]
+
 ## 2. Opportunity themes to keep open
 
 | Theme | What could be built or sold | What must be proven |
@@ -124,3 +134,9 @@ Promote a sector vertical only after observing a recurring workflow and validati
 11. Compare local cloud offerings on total cost per successful workload, including storage, network, support, backup, security, egress and compliance.
 12. Prefer partnership/workload layers over data-center or GPU capex until utilization, power, procurement and support economics are demonstrated.
 
+## 6. New decision guardrails
+
+13. Do not treat GIE Monétique accreditation as a universal cybersecurity licence; verify the exact scope and validity for each entity.
+14. Do not rely on a register's “Valid” label where the stated expiry date has passed; confirm directly with the issuer.
+15. Do not treat a 2026 procurement webpage as validating a linked attachment whose own text contains a 2024 deadline.
+16. Do not enter commodity audit, pentest, firewall management or generic SOC without evidence of a specific underserved buyer/workflow and sustainable staffing economics.
