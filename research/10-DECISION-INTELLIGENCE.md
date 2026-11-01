@@ -99,7 +99,9 @@ CERIST's page lists a 2026 managed-cybersecurity consultation, but its linked PD
 | Payments/fintech operations | Merchant integration, reconciliation, payment operations, dispute workflows, finance analytics | PSP/bank APIs, licensing boundary, merchant volumes and economics |
 | Sector-specific operations | Agriculture, health, manufacturing, public works or logistics workflow software | Specific buyer, process, existing systems, budget, data access and measurable problem |
 | Language technology | Speech/text evaluation, entity resolution, transcription QA, multilingual search and localized models | Dataset rights, field quality, funded buyer, representative evaluation and cost |
-| Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |\n| Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
+| Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |
+| Cybersecurity services and assurance | Decree 26-07 creates public-sector security structures; local integrators, specialists and GIE-scoped evaluation bodies already supply services. | Actual outsourcing budgets, award records, credentials, customer outcomes, SLAs and cost-to-serve. |
+| Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
 ## 3. Current decision guardrails
 
