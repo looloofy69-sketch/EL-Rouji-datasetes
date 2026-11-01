@@ -39,6 +39,7 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Opportunity assessment](04-OPPORTUNITY-ASSESSMENT.md)
 - [Document-operations hypothesis](05-DOCUMENT-OPERATIONS-HYPOTHESIS.md)
 - [Validation plan](06-VALIDATION-PLAN.md)
+- [International benchmark: document capture and reconciliation](07-INTERNATIONAL-BENCHMARK.md)
 - [Source register](SOURCES.md)
 
 ## Change control
