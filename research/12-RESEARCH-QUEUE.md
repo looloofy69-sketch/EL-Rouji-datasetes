@@ -72,7 +72,7 @@ Could reveal opportunities in managed security, audit readiness, privacy/securit
 ## Cloud and compute questions
 
 - Confirm the current ARPCE authorization status and service scope of providers listed in its dated directory.
-- Compare AYRADE, Icosnet, AventureCloudz, Djezzy/Armonika and CERIST on compute, storage, GPU, network, IAM, backup, observability, APIs, SLA, pricing and actual production availability.
+- Compare AYRADE, Icosnet, AventureCloudz, Djezzy/Armonika, CERIST Cloud and eBS on compute, storage, GPU, network, IAM, backup, observability, APIs, SLA, pricing and actual production availability.
 - Identify actual customer workloads and usage levels; do not infer adoption from marketing claims.
 - Follow public procurement from tender notice through award, acceptance and renewal.
 - Compare managed local infrastructure against international cloud and self-hosted alternatives on cost per successful workload.
