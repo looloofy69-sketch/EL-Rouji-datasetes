@@ -31,6 +31,13 @@ Build a sector workflow map for:
 
 For each sector identify buyer/user, top recurring workflows, source systems, documents/data, delay/error costs, current tools, procurement route and reachable channel.
 
+### Document-integrity and status checks
+
+- Resolve the CERIST 2026 managed-cyber consultation page versus the linked specification PDF that ends with a 2024 deadline.
+- Confirm whether 2026 public procurement notices resulted in award, delivery and renewal.
+- Cross-check GIE register expiry dates that conflict with “Valid” statuses directly with GIE.
+- Verify the certificate scope and issuer for providers advertising ISO 27001-certified SOC/CSIRT services.
+
 ## Priority 5 — competition and alternatives
 
 For every promising workflow map:
@@ -59,15 +66,19 @@ Separate a payment-service business from software that supports merchants or fin
 ## Priority 2 — public-sector cybersecurity and procurement
 
 ### Questions
-- Which institutions have created the structures required by Presidential Decree 26-07?
+- Which institutions have created and staffed the structures required by Presidential Decree 26-07?
 - Which roles are staffed, outsourced or still vacant?
 - What budgets, certifications, security clearances, references and procurement processes apply?
 - Which tenders have been awarded for security audits, SOC operations, monitoring, incident response, backup and recovery?
 - Which vendors repeatedly win these contracts and what capabilities do they demonstrate?
+- What are the current GIE Monétique accreditation scopes and validity for Intervalle, Keystone, MN Advising, CYBEARS, 3S Pay, UNIDEES and Mazars?
+- Which bidders and awarded contract values are visible for SOC, MDR, security audit, incident response, backup and anti-DDoS contracts?
+- What are comparable local prices for a defined pentest, SI audit, SOC/MDR package, incident-response retainer and OT assessment?
+- Which incumbent channels (Ooredoo, Icosnet, AYRADE, Algérie Télécom, Djezzy/GDSS) deliver security in-house versus through partners?
 - What is the role of national cybersecurity agencies and the ANPDP in oversight and assistance?
 
 ### Decision impact
-Could reveal opportunities in managed security, audit readiness, privacy/security operations, integration and training—or show that the market is closed to a new entrant without credentials and institutional references.
+Could reveal opportunities in managed security, audit readiness, privacy/security operations, integration and training—or show that the market is closed to a new entrant without credentials and institutional references. GIE approval is scope-specific to payment-system evaluation; it is not a universal cyber licence.
 
 ## Cloud and compute questions
 
