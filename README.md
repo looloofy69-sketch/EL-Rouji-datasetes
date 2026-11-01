@@ -54,3 +54,13 @@ A dataset may move through proposed, collecting, cleaning, review, approved, rel
 - E-commerce project documentation: [E-commerce-EL-Rouji-](https://github.com/looloofy69-sketch/E-commerce-EL-Rouji-)
 
 Questions about legal basis, consent, licenses, sensitive data, or model-training rights require human review before release.
+
+## Research intelligence archive
+
+This repository also keeps a source-linked research archive supporting EL-Rouji's technical and market decisions. These notes are documentation, **not released datasets or approved model-training material**.
+
+- [Research index](research/RESEARCH_INDEX.md)
+- [Research archive rules and navigation](research/README.md)
+- [Source register](research/SOURCES.md)
+
+The root data-governance, privacy, licensing and contribution rules apply. Research findings do not grant rights to reuse source material.
