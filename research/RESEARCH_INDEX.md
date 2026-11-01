@@ -51,7 +51,7 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. **Public-sector cybersecurity and privacy:** check whether the structures required by Decree 26-07 are staffed, how procurement clauses are applied, which tenders are awarded, and whether organizations buy external audit, monitoring, incident response or compliance services.
+1. **Public-sector cybersecurity and privacy:** verify implementation of Decree 26-07, GIE accreditation scopes/status, public-sector procurement awards, incumbent vendor qualifications, managed-SOC pricing and whether organizations buy external audit, monitoring, incident response or compliance services. Resolve CERIST's 2026 notice/PDF date mismatch.
 2. **Cloud and compute:** verify current ARPCE authorization status and compare local infrastructure providers using real workload tests, published/contractual SLAs, GPU capacity, backup, security and total cost.
 3. **Data governance and trust:** verify publication of Decree 25-320's classification/cataloguing references, operational status of trust-service providers, implementing guidance under Law 25-11 and current ANPDP materials.
 4. **Sector workflows:** map agriculture, healthcare, manufacturing, public works, finance, logistics and professional services from user/buyer through the actual workflow, records, software, failure costs and procurement route.
@@ -78,6 +78,16 @@ The document-operations idea has been narrowed again. AutoEntry and Dext already
 This reduces confidence in the idea and strengthens the no-broad-build decision.
 
 
+## Cybersecurity services landscape update
+
+The services market is more competitive than a generic “cybersecurity gap” suggests. Ooredoo has an ICT Solutions Center; Icosnet and AYRADE market managed security; specialists include Intervalle Technologies, UNIDEES, CYBEARS, Keystone, MN Advising and 3S Pay; SGS and Mazars cover scoped assurance/certification and payment evaluation; CYBERWAVE is a cross-border boutique lead. [S50–S60, S64, S66]
+
+GIE Monétique's register provides formal, scope-specific evaluation-body accreditation for payment-system homologation. It is not a universal licence for cybersecurity services. The page also has expiry/status inconsistencies, so every credential must be confirmed directly. [S50–S51]
+
+CERIST's 2026 managed-cyber consultation is a procurement signal, but its linked PDF appears to end with a 2024 deadline. Do not treat the attachment as the confirmed 2026 specification until corrected by CERIST. [S62–S63]
+
+[Full cybersecurity services and assurance map](15-CYBERSECURITY-SERVICES-LANDSCAPE.md).
+
 ## Latest landscape changes — 1 November 2026
 
 1. **Public-sector security has explicit organizational ownership.** Presidential Decree 26-07 requires a separate security and data-protection structure in public institutions, administrations and public bodies. It covers risk, audit, continuous monitoring, incident response, training and coordination with public procurement for security/confidentiality clauses in outsourced work. [S36]
@@ -93,6 +103,7 @@ This reduces confidence in the idea and strengthens the no-broad-build decision.
 - [Decision intelligence](10-DECISION-INTELLIGENCE.md)
 - [Cloud, compute and cybersecurity landscape](13-CLOUD-COMPUTE-CYBERSECURITY.md)
 - [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
+- [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
