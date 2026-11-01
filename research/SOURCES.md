@@ -51,6 +51,9 @@ Links point to primary sources where available. Vendor pages document public pos
 | S44 | CERIST, [Managed cybersecurity: audit, continuous monitoring and incident response](https://www.cerist.dz/index.php/fr/news/1741-consultation-n-02-cerist-2026-pour-la-fourniture-d-une-prestation-d-infogerance-en-cybersecurite-audit-surveillance-continue-et-intervention-en-cas-d-incident-de-secu) | 2026 | A | Primary 12-month service consultation for OpenStack, firewall and WAF environment; procurement intention, not confirmed contract award. |
 | S45 | Djezzy, [Partnership with Armonika for sovereign cloud and infrastructure virtualization](https://www.djezzy.dz/djezzy/actualite-et-nouveautes/communiques-de-presse/partenariat-entre-djezzy-et-armonika-sous-legide-de-a-venture-pour-le-developpement-du-cloud-souverain-en-algerie/) | 24 Aug 2026 | C | Participant's partnership announcement; production delivery and customer adoption remain unverified. |
 | S46 | Ministry of National Defence, [Publication of the National Information Systems Security Strategy 2025–2029](https://www.mdn.dz/site_principal/sommaire/actualites/fr/2026/mars/nsiss03032026fr.php) | 3 Mar 2026 | A | Official publication announcement; read the actual strategy document for detailed priorities and requirements. |
+| S47 | CERIST, [CERIST Cloud Services](https://cloud.cerist.dz/) | Accessed 1 Nov 2026 | C | Provider-published VPS, storage, networking, security and backup features; CERIST states its cloud service is ARPCE-authorized. Pricing, SLA and live performance not independently tested. |
+| S48 | eBS, [Hosting and managed server services](https://www.ebs.dz/ebs-hosting) and [service overview](https://www.ebs.dz/) | Accessed 1 Nov 2026 | C | Vendor-published hosting, managed servers, backup and security features; some site sections carry older copyright dates and require current confirmation. |
+| S49 | eBS, [Data-center profile](https://www.ebs.dz/ebs-hosting/51-data-center) and [data-center engineering services](https://www.ebs.dz/data-center) | Accessed 1 Nov 2026 | C | Vendor claims 85 m² facility and Tier III classification at Sidi Abdellah; independent certification, current capacity and operational status not verified. |
 
 ## Source-use notes
 
@@ -58,4 +61,5 @@ Links point to primary sources where available. Vendor pages document public pos
 - Preserve date, geography, denominator and methodology when reusing statistics.
 - Sources do not provide a reliable current addressable-market estimate for the proposed document-operations product.
 - Dataset availability does not imply permission to redistribute, retrieve or train on the dataset.
+
 
