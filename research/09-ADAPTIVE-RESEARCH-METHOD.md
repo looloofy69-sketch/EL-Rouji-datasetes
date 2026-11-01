@@ -133,3 +133,9 @@ Each research pass should finish with:
 - which decisions should remain open, be narrowed or be reversed;
 - the next highest-value research action;
 - the event or evidence that would change the direction.
+
+## 10. Operational search watchlist
+
+Use [14-SEARCH-WATCHLIST.md](14-SEARCH-WATCHLIST.md) for concrete query patterns, source families, multilingual search variants, evidence-lifecycle states and review cadence. Keep the landscape map in [08-LANDSCAPE-MAP.md](08-LANDSCAPE-MAP.md) current as the search discovers new sectors, actors and capabilities.
+
+The watchlist is not a rigid schedule. Prioritize changes that could alter a decision, and record a new lead as unverified until its underlying evidence is inspected.
