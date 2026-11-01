@@ -16,7 +16,7 @@
 ### Decision impact
 Could validate or reject an opportunity in data governance, privacy operations, trust-service integration or public-sector delivery.
 
-## Priority 2 — buyer and workflow mapping by sector
+## Priority 4 — buyer and workflow mapping by sector
 
 Build a sector workflow map for:
 1. Agriculture and food systems.
@@ -31,7 +31,7 @@ Build a sector workflow map for:
 
 For each sector identify buyer/user, top recurring workflows, source systems, documents/data, delay/error costs, current tools, procurement route and reachable channel.
 
-## Priority 3 — competition and alternatives
+## Priority 5 — competition and alternatives
 
 For every promising workflow map:
 - local direct competitors;
@@ -44,7 +44,7 @@ For every promising workflow map:
 
 Perform hands-on testing where possible. A feature page alone is not evidence of usable functionality.
 
-## Priority 4 — payment and economic rails
+## Priority 6 — payment and economic rails
 
 Research:
 - status and licensing of PSPs;
@@ -56,11 +56,32 @@ Research:
 
 Separate a payment-service business from software that supports merchants or financial institutions.
 
-## Priority 5 — infrastructure and deployment economics
+## Priority 2 — public-sector cybersecurity and procurement
+
+### Questions
+- Which institutions have created the structures required by Presidential Decree 26-07?
+- Which roles are staffed, outsourced or still vacant?
+- What budgets, certifications, security clearances, references and procurement processes apply?
+- Which tenders have been awarded for security audits, SOC operations, monitoring, incident response, backup and recovery?
+- Which vendors repeatedly win these contracts and what capabilities do they demonstrate?
+- What is the role of national cybersecurity agencies and the ANPDP in oversight and assistance?
+
+### Decision impact
+Could reveal opportunities in managed security, audit readiness, privacy/security operations, integration and training—or show that the market is closed to a new entrant without credentials and institutional references.
+
+## Cloud and compute questions
+
+- Confirm the current ARPCE authorization status and service scope of providers listed in its dated directory.
+- Compare AYRADE, Icosnet, AventureCloudz, Djezzy/Armonika and CERIST on compute, storage, GPU, network, IAM, backup, observability, APIs, SLA, pricing and actual production availability.
+- Identify actual customer workloads and usage levels; do not infer adoption from marketing claims.
+- Follow public procurement from tender notice through award, acceptance and renewal.
+- Compare managed local infrastructure against international cloud and self-hosted alternatives on cost per successful workload.
+
+## Priority 3 — infrastructure, cloud authorization and deployment economics
 
 Map local hosting/data-center providers, cloud regions, colocation, connectivity, bandwidth, power reliability, GPU access/import constraints, managed security and technical support. Benchmark local hosting against foreign managed services and self-hosting on real total cost and legal scope.
 
-## Priority 6 — language and data assets
+## Priority 7 — language and data assets
 
 - inspect NADI 2026 and Arab Voices task coverage for Algerian varieties;
 - inspect ELNER-DZ license, provenance, construction, label quality and splits;
@@ -68,7 +89,7 @@ Map local hosting/data-center providers, cloud regions, colocation, connectivity
 - identify gaps in domain-specific vocabulary, named entities, transliteration, code-switching and speech noise;
 - investigate a funded buyer before designing a new dataset.
 
-## Priority 7 — market sizing and economics
+## Priority 8 — market sizing and economics
 
 Do not size the entire AI market. After a workflow is identified, use bottom-up estimates:
 - number of target organizations in the exact segment;
