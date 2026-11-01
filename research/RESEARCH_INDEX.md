@@ -5,11 +5,13 @@
 
 ## Executive position
 
-The research does **not** justify building another general e-commerce platform, COD dashboard, accounting package or generic OCR product for Algeria. Current providers already advertise substantial overlap in those categories.
+This research is **not yet selecting one product**. Several evolving opportunity lanes now deserve comparison: cybersecurity/data-protection operations, local cloud/compute and managed AI workloads, public-sector data governance/interoperability, sector-specific workflow systems, language technology and agent assurance.
 
-The strongest remaining hypothesis is an **exception-first document-operations and reconciliation layer**: connect to incumbent systems, classify and extract business documents, cross-check them against related records, expose uncertainty and evidence, and route exceptions to a human reviewer. This is a hypothesis, not a validated market gap.
+The earlier document-operations idea has been downgraded: generic invoice extraction, duplicate detection and supplier-statement matching are already covered by local and international products. A narrower local interoperability gap may still exist, but it needs hands-on competitor testing and direct workflow evidence.
 
-No production dataset, customer workflow observation, paid pilot, willingness-to-pay result or product-market fit has been established.
+New regulation, provider activity and procurement notices point to an active digital infrastructure and security ecosystem. These are signals, not proof of an open market: laws may await implementing guidance, provider claims need testing, and tender notices are not awarded contracts.
+
+No product commitment, representative buyer validation, paid pilot, current market-size estimate or product-market fit is established.
 
 ## Research passes
 
@@ -31,17 +33,21 @@ No production dataset, customer workflow observation, paid pilot, willingness-to
 6. **The local product field is competitive.** KIO and COD Scale market integrated commerce/COD operations; Facturili, Fisira and DZ Compta market overlapping invoicing/accounting workflows, including AI extraction claims. [S13–S17]
 7. **Extraction accuracy must be evaluated on real documents.** An October 2026 EMNLP Industry Track study found synthetic documents overestimated accuracy by 38–45 percentage points on one real-document category; aggregate scores concealed large category-level differences. [S03]
 
-## Preliminary opportunity ranking
+## Current opportunity landscape
 
-| Opportunity | Attractiveness | Confidence | Main uncertainty |
-|---|---|---|---|
-| Exception-first document operations/reconciliation | High | Medium-low | Is there a recurring, expensive, unsolved local exception? |
-| Vertical workflow automation | High | Medium | Which narrow workflow has budget, volume and reachable buyers? |
-| Agent evaluation/reliability | Medium-high | Medium | Differentiation against international tools; urgency and buyer |
-| Algerian Arabic/code-switching technology | Long-term technical potential | Medium for technical need; low for commercial path | Rights, representative data, budget and buyer |
-| General e-commerce/ERP/invoicing platform | Low for initial entry | Medium-high | Crowded product surface and support burden |
+| Lane | Why it remains open | Main uncertainty |
+|---|---|---|
+| Cybersecurity and data-protection operations | Decree 26-07 defines public-sector security/data-protection structures and procurement coordination; CERIST notices show audit, monitoring, incident-response and anti-DDoS demand signals. | Organization-level implementation, budget, procurement access, credentials and competition. |
+| Local cloud, compute and managed AI workloads | ARPCE directory, local public/developer cloud offers, GPU-as-a-Service and AYRADE expansion indicate an emerging infrastructure ecosystem. | Current authorization status, workload demand, price/performance, utilization and service reliability. |
+| Public data governance and interoperability | Decree 25-320 establishes classification, source cataloguing and secure interoperability. | Technical references, implementation status, procurement and role of private providers. |
+| Electronic trust and evidence workflows | Law 26-02 creates rules for qualified signatures, seals, timestamps and registered delivery. | Authorized providers, API availability, pricing, trust list and adoption. |
+| Sector-specific workflow automation | Agriculture, health and public works show digitization programmes; manufacturing studies show readiness gaps. | Buyer, budget, actual deployed workflow, data access and alternatives in each sector. |
+| Algerian language technology | New benchmarks and datasets, including NADI, Arab Voices and ELNER-DZ, make the asset landscape richer than the first scan suggested. | Licensing, representativeness, production quality and funded buyers. |
+| Agent reliability and evaluation | Production studies show reliability and human evaluation remain constraints. | Competitive differentiation and budgeted buyer urgency. |
+| Local document operations | Potential workflow-specific interoperability or exception-control gaps remain possible. | Dext, AutoEntry and local products cover many headline features; local gap is unproven. |
+| General commerce/ERP/invoicing | Broad feature sets already overlap across local products. | High build/support burden with weak initial differentiation. |
 
-These are qualitative judgments, not measured market scores.
+This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
@@ -67,3 +73,24 @@ These are qualitative judgments, not measured market scores.
 The document-operations idea has been narrowed again. AutoEntry and Dext already offer supplier document capture, extraction, duplicate controls and supplier-statement reconciliation. The concept is therefore **not** a novel generic document-processing product. The only remaining hypothesis is a locally differentiated interoperability/exception-control workflow, pending hands-on product comparison and direct workflow evidence. [S19–S22]
 
 This reduces confidence in the idea and strengthens the no-broad-build decision.
+
+
+## Latest landscape changes — 1 November 2026
+
+1. **Public-sector security has explicit organizational ownership.** Presidential Decree 26-07 requires a separate security and data-protection structure in public institutions, administrations and public bodies. It covers risk, audit, continuous monitoring, incident response, training and coordination with public procurement for security/confidentiality clauses in outsourced work. [S36]
+2. **Cloud services have a defined authorization route and a visible incumbent field.** ARPCE's dated page describes application requirements and lists 20 cloud operators, with four asterisked entries whose regularization applications were being examined. Do not treat the March 2025 directory as a current licensing register. [S37]
+3. **Local cloud competition is advancing.** AYRADE's stock-exchange profile reports a 1 billion DZD public offering to finance data-center expansion; Icosnet markets public cloud and GPU capacity; AventureCloudz is a Djezzy/Algeria Venture/Taubyte developer-cloud initiative; Djezzy has a later virtualization partnership with Armonika. These offers have different maturity and evidence states. [S38–S41, S45]
+4. **Institutional demand signals are concrete but not award evidence.** CERIST issued 2026 consultations covering GPU computing, SOC equipment, backup/restore, anti-DDoS and managed cybersecurity. Track award and delivery outcomes separately. [S42–S44]
+5. **Language resources are expanding.** NADI 2026, Arab Voices and ELNER-DZ show existing resources and benchmarks; the opportunity may be in quality, coverage, evaluation and domain adaptation rather than generic corpus creation. [S27–S30]
+
+## Research method and navigation
+
+- [Multi-angle landscape map](08-LANDSCAPE-MAP.md)
+- [Adaptive research method](09-ADAPTIVE-RESEARCH-METHOD.md)
+- [Decision intelligence](10-DECISION-INTELLIGENCE.md)
+- [Cloud, compute and cybersecurity landscape](13-CLOUD-COMPUTE-CYBERSECURITY.md)
+- [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
+- [Source register](SOURCES.md)
+
+New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
+
