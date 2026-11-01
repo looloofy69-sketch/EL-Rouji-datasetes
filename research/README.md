@@ -1,0 +1,46 @@
+# Research Intelligence Archive
+
+**Snapshot:** 1 November 2026  
+**Archive status:** Initial research record; evidence review ongoing.
+
+## Purpose
+
+This directory preserves external research used to inform EL-Rouji's technical direction, data strategy, market understanding and opportunity selection. It is a documentary research archive inside the dataset repository; it is **not itself a released dataset**.
+
+The archive contains research scope, source-linked findings, opportunity hypotheses, explicit uncertainty and proposed validation work. It does not contain a production dataset, customer data or restricted source material.
+
+## Boundary with dataset governance
+
+The root repository's dataset governance remains authoritative. Research notes do not grant permission to collect, redistribute, retrieve or train on source material.
+
+- No raw personal data, private conversations, customer records, secrets or restricted corpora belong here.
+- Publicly reachable content is not automatically public-domain or freely redistributable.
+- Record source, publisher, publication date, access date, license/terms and permitted use before creating any dataset from a source.
+- Research reports and source metadata are not approved training data.
+- Any later conversion into evaluation, retrieval, analytics or training data requires a separate manifest, rights review, privacy review and quality approval.
+- Store concise findings and canonical links; do not copy full articles, papers or reports.
+
+## Evidence convention
+
+- **A — Primary/high-authority:** official statistics, legislation, primary research papers, standards or original datasets.
+- **B — Credible secondary:** reputable reporting or institutionally published synthesis with traceable sources.
+- **C — Vendor/self-reported:** product pages, vendor surveys, marketing claims and customer counts.
+- **D — Hypothesis:** proposed interpretation or opportunity requiring validation.
+
+Confidence describes the inference, not just the source authority. Conflicts and incompatible measurements are preserved rather than silently reconciled.
+
+## Navigation
+
+- [Research index](RESEARCH_INDEX.md)
+- [Research charter and methodology](00-CHARTER.md)
+- [AI and agent landscape](01-LANDSCAPE.md)
+- [Algeria digital economy](02-ALGERIA-MARKET.md)
+- [Competitive landscape](03-COMPETITIVE-LANDSCAPE.md)
+- [Opportunity assessment](04-OPPORTUNITY-ASSESSMENT.md)
+- [Document-operations hypothesis](05-DOCUMENT-OPERATIONS-HYPOTHESIS.md)
+- [Validation plan](06-VALIDATION-PLAN.md)
+- [Source register](SOURCES.md)
+
+## Change control
+
+Each update must state the date and question, distinguish evidence from inference, record contradictions, preserve superseded reasoning, update the source register and index, and identify the next test that could change the decision.
