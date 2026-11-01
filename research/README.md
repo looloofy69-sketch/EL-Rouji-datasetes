@@ -40,6 +40,13 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Document-operations hypothesis](05-DOCUMENT-OPERATIONS-HYPOTHESIS.md)
 - [Validation plan](06-VALIDATION-PLAN.md)
 - [International benchmark: document capture and reconciliation](07-INTERNATIONAL-BENCHMARK.md)
+- [Multi-angle landscape map](08-LANDSCAPE-MAP.md)
+- [Adaptive research method](09-ADAPTIVE-RESEARCH-METHOD.md)
+- [Decision intelligence and new opportunity lanes](10-DECISION-INTELLIGENCE.md)
+- [New signals — 1 November 2026](11-NEW-SIGNALS-2026-11-01.md)
+- [Research queue](12-RESEARCH-QUEUE.md)
+- [Cloud, compute and cybersecurity landscape](13-CLOUD-COMPUTE-CYBERSECURITY.md)
+- [Adaptive search watchlist and query playbook](14-SEARCH-WATCHLIST.md)
 - [Source register](SOURCES.md)
 
 ## Change control
