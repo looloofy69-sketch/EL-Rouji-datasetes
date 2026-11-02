@@ -194,3 +194,19 @@ Promote a sector vertical only after observing a recurring workflow and validati
 18. The Article 58 20% language is a maximum ceiling over the stated public-procurement category, not a guaranteed startup allocation or revenue forecast.
 19. For Article 58, verify that the need is satisfiable by an eligible category and check the contracting authority's written justification if not reserved.
 20. Apply Article 110/112 transition rules by procedure launch, specification approval and contract notification dates; assess old regulatory provisions individually for conflict with Law 23-12.
+
+
+## Procurement supplier-side competitive correction — 2 November 2026
+
+The paid market already includes tender aggregation, categorized alerts, awards/corrigenda, archive search, competitor/award analytics, document retrieval and human bid assistance. Advertised subscriptions range from low-ticket sector access to higher multi-sector plans; the prices are vendor listings, not evidence of subscriber economics. [S144–S149]
+
+The government portal's free-download baseline further weakens generic aggregation. A private marketplace is also marketed by SAFAKAT, while CGMP and banks already provide formal guarantee/working-capital instruments. [S141–S143, S150–S154]
+
+**Decision update:** downgrade generic tender alerts, generic award dashboards and a replacement marketplace. Keep bid-readiness/compliance operations and post-award contract-to-cash workflows as hypotheses only. Test against live portal features, actual bidder failure data, current finance terms and willingness to pay before any implementation.
+
+21. Do not treat advertised competitor features or prices as proof of actual product quality, market share, revenue or demand; benchmark them against the same public tender sample.
+22. Do not treat free document downloads as a blanket right to bulk scrape, redistribute or commercially resell procurement data; verify technical access and reuse conditions.
+23. Do not assume CGMP or bank guarantees constitute contract pre-financing, automatic approval or debt forgiveness; inspect the exact instrument, eligibility, collateral, fees and payment trigger.
+24. Do not treat historical OECD payment-delay or training findings as 2026 measurements; collect fresh supplier-side data.
+25. Do not build a generic tender aggregator, bid-writing bot or two-sided marketplace without a demonstrable underserved segment and paid evidence.
+
