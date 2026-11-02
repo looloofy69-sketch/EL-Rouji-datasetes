@@ -51,16 +51,14 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. **Public-sector cybersecurity and privacy:** verify Decree 26-07 implementation, GIE accreditation status, awarded procurement and incumbent qualifications.
-2. **Cloud and compute:** validate current ARPCE authorization, provider SLA/capacity and total cost on comparable workloads.
-3. **Data governance and trust:** verify technical references under Decree 25-320, trust-provider status and Law 25-11 implementation guidance.
-4. **Healthcare:** after the 15 Nov 2026 CHU target, verify rollout, live modules, daily usage, suppliers, awards and inter-facility exchange.
-5. **Agriculture:** verify SNAI module rollout/data access and paid field adoption/ROI for local agritech providers.
-6. **Manufacturing:** choose a subsector; map installed systems and quantify a measurable operational loss.
-7. **Payments:** track final PSP operating approvals, merchant APIs, settlement economics and the buyer need for non-regulated software.
-8. **Logistics/ports:** benchmark COD platforms, inspect courier integration reliability, and verify APCS governance, coverage and freight interfaces.
-9. **Construction/education/tourism:** verify portal usage and procurement, university platform experience/integration, and hotel/agency product adoption and payment/OTA integration.
-10. **Economics:** size only specific buyer/workflows once volume, budget, current cost, channel and delivery cost are established.
+1. **Enterprise R&D/innovation spending:** identify Algerian-law companies with turnover >=DZD2bn, sector, taxable-profit capacity, likely internal R&D and public evidence of external innovation partnerships.
+2. **Tax implementation:** obtain current DGI guidance and verify Article 119 sector/application regulations; inspect the 2025 amended Article 147 quater order and exact evidence/document rules.
+3. **Open Innovation platform:** count live challenges, matched proposals, signed six-month contracts, delivered projects and repeat buyers.
+4. **Startup/Scale-up eligibility:** resolve Article 119's statutory startup/incubator wording versus the portal's additional scale-up listing; verify the Scale-up label criteria.
+5. **Financing:** verify ASF portfolio, funded deals, follow-on capital and actual investment amounts separately from processed applications and partner introductions.
+6. **Public procurement:** search for Article 41 implementing texts and actual awards; establish uniqueness criteria, eligibility and contracting-authority practice.
+7. **DIHs:** obtain DIHMA/GIH consortium membership, signed agreements, service catalogues and first paid SME implementation projects.
+8. **Market economics:** compare a corporate open-innovation contract, ordinary B2B pilot and public-sector contract on sales cycle, delivery risk, payment timing, margin and renewal.
 
 ## Known gaps
 
@@ -108,6 +106,18 @@ The public-sector digitization footprint is becoming substantial, but public pla
 
 Last-mile logistics and COD operations are more crowded than a simple pain-point scan suggests. Port/freight logistics is distinct and needs its own technical and governance research.
 
+## Funding and commercialization access update — 2 November 2026
+
+[Full funding, tax and market-access report](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md).
+
+- **Article 119, Finance Law 2026:** Algerian-law establishments with annual turnover of at least DZD 2bn must allocate at least 1% of taxable profit to R&D/innovation, in-house or via open innovation with labelled startups/incubators. Sector scope and application modalities require regulation. The declaration service is still marked “opening soon”. [S18, S121–S122]
+- **Article 147 quater, Finance Law 2025:** a separate taxable-profit allowance applies to qualifying R&D/open innovation, capped at 30% of accounting profit and DZD 200m. Article 171 was repealed; an April 2025 order updated the earlier implementing order and retained the six-month contract condition. [S117–S120]
+- **Open Innovation platform:** the challenge-submission route is live, but challenge postings, matched projects, signed contracts and paid deployments have not been counted. Its homepage still contains obsolete Article 171/LF2023 language. [S120, S123–S125]
+- **Startup/Scale-up labels and ASF:** the Startup label affects access to tax benefits and ASF; ASF advertises equity/quasi-equity and tickets up to DZD150m depending on project needs/maturity. Fund figures are self-reported; DZD1.3bn denotes partner introductions for pilots, not invested capital. [S126–S129]
+- **Public procurement:** Article 41 allows direct negotiation only in a narrow exceptional case for labelled startups offering unique and innovative digital/innovation solutions. The latest official implementation update located was the DGB's May 2026 statement that rules were being finalized. [S130–S131]
+
+**Interpretation:** enterprise open innovation could become a real buyer-acquisition route, but tax incentives, labels, funding and procurement exceptions do not guarantee a contract. Conversion to paid work must be measured.
+
 ## Procurement and national strategy update — 2 November 2026
 
 [Full evidence update](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md).
@@ -149,6 +159,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
 - [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
 - [Procurement, DIH and national cybersecurity strategy signals](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
+- [Funding, tax incentives and market access](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
