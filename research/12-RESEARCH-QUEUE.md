@@ -195,6 +195,26 @@ Record low/base/high assumptions and distinguish known counts from estimated con
 - Check whether private-sector entities in critical sectors are directly addressed by implementation guidance, and what proof/assurance suppliers must provide.
 - Search for implementing decrees, circulars, standards and sector-specific technical requirements.
 
+## Priority 2 — public procurement access for SMEs and labelled startups
+
+### Article 58 reserved needs
+- Identify tender notices/specifications that expressly cite Article 58 or reserve lots/markets for small enterprises, very small enterprises or labelled startups.
+- Check whether the reserved category includes SMEs, TPEs and labelled startups in the same 20% ceiling and how contracting authorities calculate that ceiling.
+- Collect the authority's justification where a satisfiable need is not reserved; test whether this is recorded in procurement presentation reports.
+- Determine how startup-label status is checked at bid submission and contract award.
+- Compare actual qualification thresholds, guarantees, turnover/experience criteria, contract sizes, payment terms and technical obligations for reserved vs ordinary lots.
+- Find awarded contracts under Article 58 and record awardee type, amount, delivery and renewal; no applied example has yet been confirmed in this research pass.
+
+### Article 41 direct negotiation
+- Locate the final implementing texts and any operational guidance for labelled startups with unique/innovative digital solutions.
+- Find actual use cases, approvals, procurement decisions and awards under Article 41.
+- Establish how contracting authorities assess uniqueness/innovation and what evidence is required.
+
+### Transition rules
+- Apply Article 110 to procedures and contracts based on their notice/consultation/notification dates.
+- Under Article 112, distinguish provisions contrary to Law 23-12 (abrogated) from regulatory matters remaining in force until replacement texts.
+- Do not infer that the entire 2015 decree is either wholly current or wholly repealed; map each relevant regulatory clause against Law 23-12 and later implementing texts.
+
 ## Priority 2 — enterprise R&D/innovation spending and open-innovation conversion
 
 ### Article 119 demand-side mechanism
