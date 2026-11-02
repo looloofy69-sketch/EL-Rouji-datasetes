@@ -171,6 +171,8 @@ Article 41 lists seven exceptional cases where the contracting authority can use
 
 On 5 May 2026, the Directorate General of the Budget reported that the implementing texts for Article 41 were being finalized. That is the latest official implementation-status statement located in this pass; no later implementing text was confirmed here. [S131]
 
+**Scope clarification:** Article 41 contains several separate exceptional cases, and at least one has a sector-specific order: an interministerial order dated 9 October 2025 defines cultural/artistic operations under Article 41's first indent. That order does not implement the distinct labelled-startup digital/innovation exception. The DGB's May 2026 statement specifically concerns the startup-related texts. Do not generalize the existence or status of one Article 41 order to all seven cases. [S164, S131]
+
 ### 7.2 Article 58 — reservation of needs/markets for SMEs, TPEs and labelled startups
 
 Article 58 creates a different route. When certain needs of the contracting authority **can be satisfied by small or very small enterprises or labelled startups**, or by companies employing the minimum prescribed proportion of workers with physical disabilities, the authority must reserve the corresponding markets **exclusively** for these eligible categories, unless a justified exception applies. Where the exception is used, the contracting authority must explain it in the market-project presentation report. [S130]
