@@ -1,6 +1,6 @@
 # Research Index
 
-**Last updated:** 1 November 2026  
+**Last updated:** 2 November 2026  
 **Current phase:** Opportunity qualification, before product commitment.
 
 ## Executive position
@@ -108,6 +108,16 @@ The public-sector digitization footprint is becoming substantial, but public pla
 
 Last-mile logistics and COD operations are more crowded than a simple pain-point scan suggests. Port/freight logistics is distinct and needs its own technical and governance research.
 
+## Procurement and national strategy update — 2 November 2026
+
+[Full evidence update](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md).
+
+- **National cybersecurity strategy:** the accessible 2025–2029 strategy has four axes—technical/operational capacity; legal, organizational and standards framework; training/R&D/awareness; and cooperation. It explicitly identifies government, finance, public safety, energy, health, water, telecoms, transport and essential-food supply chains as sensitive sectors. [S107]
+- **Digital Innovation Hubs:** proposed laureates are DIHMA (manufacturing, Algiers) and Green Innovation Hub (renewable energy, Ouargla); ASIA/Innov4Industry and ECOHUB/AFAQ are next-ranked reserves. The evaluation included service maturity, local anchoring, DMA/IMA field evidence and business-model sustainability. [S108]
+- **CERIST procurement:** 2026 notices span managed cybersecurity, backup/restore, anti-DDoS, GPU equipment, SOC video-wall equipment, and renewal of Zimbra support for 5,500 existing mailboxes. The Zimbra support tender remains open until 8 November 2026, 16:00; the SOC wall deadline passed on 31 October. Award and delivery status for all listed procurement remains unverified. [S109–S115]
+
+**Interpretation:** implementation/maintenance, integration, assurance and training may be as important as new software. DIHs may become a channel for SME diagnostics and technology delivery, but are not guaranteed buyers. Public tender notices do not establish contract awards or recurring revenue.
+
 ## Sector landscape update
 
 The current sector pass covers agriculture, healthcare and manufacturing as three distinct markets. [Full sector map](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md).
@@ -120,7 +130,7 @@ The current sector pass covers agriculture, healthcare and manufacturing as thre
 
 After 15 November 2026, verify actual CHU rollout completion, live EHR modules, system suppliers, procurement awards and facility-level usage. For SNAI, verify actual rollout of future modules and access/data-sharing policy. For manufacturing, choose a subsector and quantify one recurring loss against installed systems.
 
-## Latest landscape changes — 1 November 2026
+## Latest landscape changes — 1–2 November 2026
 
 1. **Public-sector security has explicit organizational ownership.** Presidential Decree 26-07 requires a separate security and data-protection structure in public institutions, administrations and public bodies. It covers risk, audit, continuous monitoring, incident response, training and coordination with public procurement for security/confidentiality clauses in outsourced work. [S36]
 2. **Cloud services have a defined authorization route and a visible incumbent field.** ARPCE's dated page describes application requirements and lists 20 cloud operators, with four asterisked entries whose regularization applications were being examined. Do not treat the March 2025 directory as a current licensing register. [S37]
@@ -138,6 +148,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
 - [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
 - [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
+- [Procurement, DIH and national cybersecurity strategy signals](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
