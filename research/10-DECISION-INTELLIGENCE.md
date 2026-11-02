@@ -97,7 +97,14 @@ This is separate from Article 147 quater of the 2025 Finance Law, which gives a 
 
 The Open Innovation platform accepts company challenges; however, posting, matching, signed contract, delivery and payment are separate states. ASF offers equity/quasi-equity and partner introductions for labelled startups, but its published headline metrics are fund-reported; its DZD1.3bn figure is partner introductions, not cash invested. [S123–S129]
 
-Article 41 of Law 23-12 includes labelled startups with unique and innovative digital/innovation solutions as one narrow exception for direct negotiated procurement. The DGB's latest located official statement (5 May 2026) says implementing texts were being finalized. This is not a blanket startup procurement waiver. [S130–S131]
+Law 23-12 creates two distinct market-access mechanisms:
+
+- **Article 41:** an exceptional direct-negotiation route for labelled startups providing digitalization/innovation services with unique and innovative solutions.
+- **Article 58:** when specified needs can be satisfied by small or very small enterprises or labelled startups (or qualifying employers of persons with disabilities), the contracting authority must reserve those markets exclusively for the eligible category unless it justifies an exception. The identified needs may be split into a separate specification or lot within a 20% maximum of public procurement. This is a ceiling, not a guaranteed 20% quota for startups, and its denominator/category split need operational clarification. [S130]
+
+The DGB's latest located official statement (5 May 2026) says Article 41 implementing texts were being finalized. It does not establish Article 58 implementation status. No actual procurement notice/award applying Article 58 to a labelled startup has yet been verified in this research pass. [S131]
+
+Articles 110 and 112 clarify the transition: procedures initiated before Law 23-12's entry into force, and contracts notified before that date, retain the specified treatment under Presidential Decree 15-247; regulatory provisions continue to apply insofar as they are not contrary to Law 23-12 until replacement regulations are published. It is therefore inaccurate to infer either that the whole 2015 decree is fully current or that all of it ceased to apply immediately. [S130]
 
 **Implication:** corporate open-innovation contracts may form a real commercialization channel. To prove it, identify qualifying large firms, actual funded challenges, contract values, deliverables, paid invoices, renewals and the legal documentation required. Do not treat a tax deduction or expenditure obligation as evidence of startup revenue.
 
@@ -126,6 +133,7 @@ These are not interchangeable:
 | Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |
 | Cybersecurity services and assurance | Decree 26-07 creates public-sector security structures; local integrators, specialists and GIE-scoped evaluation bodies already supply services. | Actual outsourcing budgets, award records, credentials, customer outcomes, SLAs and cost-to-serve. |
 | Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |
+| Public procurement Articles 41 and 58 | Article 41 permits narrow direct negotiation for unique/innovative labelled-startup digital solutions; Article 58 reserves certain satisfiable needs for SMEs/TPEs/labelled startups unless justified, within a 20% ceiling. | Implementing procedure, 20% calculation, actual reserved tenders/awards, qualifications and payment/acceptance. |
 | SME finance and investment incentives | NESDA, FGAR, CGCI-PME and AAPI provide distinct debt, guarantee and investment-incentive routes. | Product/project eligibility, bank participation, collateral, sector exclusions, disbursement timing and project economics. |
 | Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
@@ -168,3 +176,10 @@ Promote a sector vertical only after observing a recurring workflow and validati
 14. Do not rely on a register's “Valid” label where the stated expiry date has passed; confirm directly with the issuer.
 15. Do not treat a 2026 procurement webpage as validating a linked attachment whose own text contains a 2024 deadline.
 16. Do not enter commodity audit, pentest, firewall management or generic SOC without evidence of a specific underserved buyer/workflow and sustainable staffing economics.
+
+## 7. Public procurement interpretation guardrails
+
+17. Do not conflate Article 41 direct negotiation (unique/innovative labelled-startup solution) with Article 58 reservation of needs for SMEs/TPEs/labelled startups.
+18. The Article 58 20% language is a maximum ceiling over the stated public-procurement category, not a guaranteed startup allocation or revenue forecast.
+19. For Article 58, verify that the need is satisfiable by an eligible category and check the contracting authority's written justification if not reserved.
+20. Apply Article 110/112 transition rules by procedure launch, specification approval and contract notification dates; assess old regulatory provisions individually for conflict with Law 23-12.
