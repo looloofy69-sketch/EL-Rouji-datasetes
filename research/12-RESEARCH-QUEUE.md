@@ -195,6 +195,27 @@ Record low/base/high assumptions and distinguish known counts from estimated con
 - Check whether private-sector entities in critical sectors are directly addressed by implementation guidance, and what proof/assurance suppliers must provide.
 - Search for implementing decrees, circulars, standards and sector-specific technical requirements.
 
+## Priority 2 — electronic procurement portal implementation and supplier workflow
+
+### Verify live portal behavior
+- Complete a legitimate supplier registration flow using an authorized test/company account if available.
+- Test multi-criteria search, tender alerts, free download of specifications, addenda and deadline updates.
+- Verify electronic bid upload, file formats/size limits, e-signature, timestamp receipt, submission correction and post-submission tracking.
+- Test how the portal handles groups/consortia, subcontractors, guarantees, certificates and reusable bidder dossiers.
+- Verify portal availability, support process, access errors and audit/receipt downloads. Distinguish legal capability from deployed functionality.
+
+### Procurement data and intelligence
+- Check whether forecast procurement programmes, previous-year concluded contracts, price indices, excluded/prohibited operators and award records are queryable/exportable in bulk.
+- Check search filters, pagination, date coverage, duplicate/updated notices and stable identifiers.
+- Determine reuse/API/scraping terms before building datasets or commercial intelligence products.
+- Identify buyer/user personas: suppliers, incubators, banks, guarantee funds, DIHs, consultants and procurement officers.
+
+### SME supplier enablement
+- Observe real micro-enterprise/SME bid preparation and identify failure modes: registration, document validity, tax/social certificates, technical references, guarantees, eligibility, lots, deadlines and electronic submission.
+- Measure hours per bid, rejection reason, cost of guarantees, win rate, payment delay and repeat tender participation.
+- Compare third-party bid support against free DGB/NESDA onboarding and public portal functions.
+- Test whether an external tool can add value without storing portal passwords or private keys or bypassing the official submission flow.
+
 ## Priority 2 — public procurement access for SMEs and labelled startups
 
 ### Article 58 reserved needs
