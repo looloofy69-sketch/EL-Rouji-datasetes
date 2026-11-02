@@ -161,19 +161,50 @@ ASF states that the Startup label is a prerequisite for partnering with the fund
 
 **Implication:** label acquisition may materially improve access to capital and corporate pilots, but funding is discretionary and depends on product, market, business model, governance, maturity and investment terms. It is not a grant entitlement.
 
-## 7. Public procurement: a narrow startup exception, not universal access
+## 7. Public procurement: two distinct startup/SME access mechanisms
 
-Article 41 of Law No. 23-12 includes promotion of labelled startups providing services in digitalization and innovation as one of seven exceptional cases for direct negotiated procurement, provided that the proposed solutions are **unique and innovative**. The direct-negotiation route is exceptional, not an automatic public contract or blanket startup waiver. [S130]
+Law No. 23-12 contains **two separate mechanisms** that should not be conflated. The official text is in Official Journal No. 51. [S130]
 
-On 5 May 2026, the Directorate General of the Budget reported that the implementing texts for Article 41 were being finalized and would facilitate startup access to public procurement. The most recent official implementation-status statement located in this pass is that May 2026 notice; no later official implementing text was confirmed here. [S131]
+### 7.1 Article 41 — exceptional direct negotiation for unique digital/innovation solutions
 
-The article's legal scope also matters:
-- the beneficiary must be a labelled Startup, not merely an unlabelled project;
-- the service must concern digitalization or innovation;
-- the proposed solution must be unique and innovative;
-- the contracting authority still must apply the legal and implementing conditions.
+Article 41 lists seven exceptional cases where the contracting authority can use direct negotiated procurement. One case concerns promotion of **labelled startups** providing services in digitalization and innovation, provided the solutions are **unique and innovative**. Direct negotiation is an exceptional procedure, not a general startup preference and not an automatic contract. [S130]
 
-Do not build a B2G revenue forecast around this route until the implementing text, qualification requirements and actual awards can be inspected.
+On 5 May 2026, the Directorate General of the Budget reported that the implementing texts for Article 41 were being finalized. That is the latest official implementation-status statement located in this pass; no later implementing text was confirmed here. [S131]
+
+### 7.2 Article 58 — reservation of needs/markets for SMEs, TPEs and labelled startups
+
+Article 58 creates a different route. When certain needs of the contracting authority **can be satisfied by small or very small enterprises or labelled startups**, or by companies employing the minimum prescribed proportion of workers with physical disabilities, the authority must reserve the corresponding markets **exclusively** for these eligible categories, unless a justified exception applies. Where the exception is used, the contracting authority must explain it in the market-project presentation report. [S130]
+
+The article also provides that these needs may be organized through a separate specification or a lot in an allotment, within a limit of **20% maximum of public procurement**. This is a ceiling in the statutory wording, not a promise that 20% will be allocated, not a startup-only quota, and not proof of the amount available to any one supplier. The denominator, category split, operational calculation and current procedure need confirmation through implementing texts and actual tender documents. [S130]
+
+**Commercial relevance:** Article 58 can potentially reach suitable routine and specialized goods/services—not only digital products that qualify as unique and innovative under Article 41. It may create smaller lots or separate specifications that are more accessible to eligible firms.
+
+**Important limits:**
+- The need must be one that can actually be met by the eligible category.
+- Reservation remains subject to Law 23-12 and procurement principles.
+- A supplier still needs the required technical, financial, professional, tax and administrative capacity.
+- A contracting authority may invoke an exception, but the law requires it to justify that exception in the relevant report.
+- The 20% wording is a maximum limit on the identified category of needs; it should not be modeled as guaranteed reserved revenue or an automatic share for startups.
+- No actual 2026 procurement example applying Article 58 to a labelled startup has been verified in this research pass.
+
+### 7.3 Transition from the 2015 regulatory framework
+
+Articles 110–112 clarify why procurement notices and guidance may still refer to Presidential Decree 15-247 of 2015:
+- **Article 110** preserves the 2015 decree for procedures where an invitation notice had been sent for publication or a consultation launched before Law 23-12 entered into force, and for execution of contracts notified before that date. Previously approved specifications continue until the relevant award procedure is completed, subject to the stated process for bringing them into conformity.
+- **Article 112** abrogates provisions contrary to Law 23-12 but says regulatory provisions remain applicable until new implementing regulations are published, insofar as they are not contrary to the law. [S130]
+
+This means that the old decree's continued appearance in procurement resources is not automatically proof that the new law is ignored. At the same time, not every old provision can be assumed valid: direct statutory conflicts are abrogated, and transition rules must be applied to the specific procedure and date.
+
+The DGB's May 2026 statement refers specifically to finalizing Article 41 implementing texts. It does not establish the implementation status of every other article, including Article 58. [S131]
+
+### 7.4 Market-access implications
+
+| Route | Potential fit | What must be proven |
+|---|---|---|
+| Article 41 | A genuinely unique/innovative labelled-startup solution in digitalization or innovation. | Implementing procedure, uniqueness test, authority discretion, award and delivery practice. |
+| Article 58 | A need that can be fulfilled by an SME/TPE or labelled startup, potentially as a separate lot/specification. | How eligibility is verified, how the 20% ceiling is calculated, which lots are reserved, and actual awards to eligible firms. |
+
+Do not build a B2G forecast around either route until current rules, procurement documents, awards and payment/acceptance records are visible.
 
 ## 8. The commercial-access chain
 
@@ -197,7 +228,7 @@ This is a commercialization framework inferred from the identified mechanisms, n
 | Six-month contract condition | Official Open Innovation guide and amended implementing framework retain the minimum six-month agreement and Article 5 contract contents. | Use the amended 2025 order, not the old portal wording alone. Obtain qualified tax advice on exact documentation. [S118–S120] |
 | Article 119 includes Scale-ups on portal, but not in statutory wording | Article 119 text refers to labelled startups and incubators; R&D&I 2026 portal also lists scale-ups. | Do not assume Scale-up partner eligibility for Article 119 until a regulation or official clarification resolves it. [S121–S122] |
 | R&D&I service is not live | Portal page says “opening soon”; it nevertheless displays a 31 January deadline and QR statement flow. | Treat the service workflow and deadline as published planned functionality pending launch and implementing details. [S122] |
-| Article 41 public procurement implementation | DGB said on 5 May 2026 that texts were being finalized. | Direct negotiation is a narrow exception for unique/innovative solutions by labelled startups; do not rely on it until the implementing text and award practice are verified. [S130–S131] |
+| Public procurement Articles 41 and 58; transition Articles 110–112 | Official Law 23-12 provides exceptional direct negotiation for unique/innovative labelled-startup solutions (Art.41) and mandatory reservation of certain satisfiable needs for SMEs/TPEs/labelled startups unless justified (Art.58), within a 20% maximum; regulatory provisions remain until replaced where not contrary (Art.112). | Article 41 implementing texts were still being finalized in the latest located DGB statement; Article 58's application, 20% ceiling calculation and actual award practice are unverified. Apply Art.110 transition rules by tender/contract date. [S130–S131] |
 | ASF headline metrics | ASF's DZD 1.3bn metric is labelled partner introductions to run pilots. | Do not restate it as investment capital. [S129] |
 
 ## 10. What this changes in the opportunity map
