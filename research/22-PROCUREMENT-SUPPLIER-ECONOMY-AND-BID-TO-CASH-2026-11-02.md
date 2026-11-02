@@ -49,6 +49,9 @@ The commercial offer extends beyond data aggregation:
 - Algeria Tenders advertises nationwide retrieval and dispatch of specifications, physical submission of bids at the contracting authority, representation at opening sessions, and publication services for organizations. [S147]
 - NESDA says it supports micro-enterprises with registration and portal-use guidance, including workshops. [S143]
 
+
+A higher-ticket professional service is also publicly priced by UpGrowth: complete bid-dossier preparation from DZD150,000 HT; review of an already prepared dossier from DZD60,000 HT; setting up a bank guarantee from DZD45,000 HT per guarantee; and a permanent administrative dossier from DZD30,000 HT/month. This is one provider's advertised price list, not a market average, transaction record or proof of realized revenue. It nevertheless shows that bid support can be positioned as a project-specific professional service well above the annual subscription prices of tender-alert platforms. [S159]
+
 This is important because a software product that only manages a checklist may compete with an existing human service relationship. Conversely, the continued sale of physical and manual assistance may indicate that parts of the workflow remain operationally cumbersome. The latter is a hypothesis, not proof of unmet demand: some services may simply be retained by customers who prefer outsourcing.
 
 ### 1.4 Private procurement marketplace is a distinct adjacent category
@@ -131,6 +134,19 @@ The new evidence moves the hypothesis from *procurement information* toward *sup
 8. coordinate guarantees, advances, progress statements, invoices and receivables.
 
 This lifecycle is a research model, not a proposed product specification. Parts are already supplied by portal functions, aggregators, human service providers, NESDA, CGMP and banks. The question is whether handoffs between these parties create a repeated, expensive gap.
+
+### 4.1 Small observed procurement-practice sample
+
+CERIST's published procurement trail provides a small but concrete example of software-related awards:
+
+- Consultation 15/CERIST/2025: a provisional award to ABYSOFT SARL for DZD1,675,520 TTC; the notice describes the firm as the sole bidder. The RSS listing gives a publication date of 5 January 2026. [S160]
+- Consultation 16/CERIST/2025: a provisional award to ABYSOFT SARL for DZD877,030 TTC, selected as the lowest-priced offer. The indexed official notice describes similarity-detection integration for CERIST's thesis portal; the companion consultation concerned similarity detection in the journal platform. [S161]
+
+These are **provisional awards**, not evidence of signed contracts, payment, acceptance, production usage or renewal. They show a local supplier winning narrow integration work with a public research institution; two awards at one institution cannot establish the size or competitiveness of the wider market.
+
+Two later CERIST notices show email/fax channels still appearing in tender instructions after the February 2026 portal-management order: Consultation 08/CERIST/2026 (SOC video wall) listed email/fax submission, and Consultation 09/CERIST/2026 (Zimbra support) listed email submission. [S162–S163] This does not prove failure to adopt the national portal. Article 107 of Law 23-12 makes electronic exchange/bid responses subject to a timetable set by the Minister of Finance; the February 2026 order governs Article 105 portal content/management and is not the Article 107 timetable. The relevant timetable was not located in this pass. Tender-specific channel instructions therefore remain the evidence for those two procedures. [S130, S141, S159]
+
+**Research implication:** add contract status, award method, number of bidders, submission channel and transition/timetable references to procurement-sample records. Follow provisional award through final award, contract notification, delivery, acceptance, payment and renewal before using it as evidence of recurring demand.
 
 ## 5. Economics and entry constraints
 
