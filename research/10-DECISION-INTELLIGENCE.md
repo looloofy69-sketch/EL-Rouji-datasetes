@@ -108,6 +108,16 @@ Articles 110 and 112 clarify the transition: procedures initiated before Law 23-
 
 **Implication:** corporate open-innovation contracts may form a real commercialization channel. To prove it, identify qualifying large firms, actual funded challenges, contract values, deliverables, paid invoices, renewals and the legal documentation required. Do not treat a tax deduction or expenditure obligation as evidence of startup revenue.
 
+### M. Electronic procurement portal and supplier enablement
+
+The 4 February 2026 interministerial order (Official Journal No. 17, 2 March 2026) operationalizes Article 105 of Law 23-12. It defines a public portal publishing procurement legislation/opinions, forecast procurement programmes, previous-year concluded contracts, excluded/prohibited operators, price indices and notices. It includes registration, multi-criteria search, alerts, information exchange, document upload/download, bid submission, electronic signature and timestamping. The system must preserve document integrity, confidentiality/encryption, event traceability, interoperability and secure electronic archiving. [S141]
+
+DGB invites economic operators to register. NESDA describes portal access, electronic bid submission and result tracking, and says it conducts training/workshops to help micro-enterprises use the service. The portal's public hostname did not complete an independent technical-access check during this pass, so actual feature availability, reliability and usage still need testing. [S142–S143]
+
+**Potential adjacent offers:** SME tender/bid readiness; reusable supplier evidence and compliance files; deadline/addendum tracking; procurement data/award analytics; tender-price/sector intelligence; and integrations with accounting, tax/social-security certificates, e-signature and guarantee providers.
+
+**Boundary:** the government portal is the official transaction system. A third-party product must add measurable value beyond free portal functions, use lawful data access, protect bid credentials and not replace official electronic submission.
+
 ### L. SME financing, guarantees and investment incentives
 
 The financing ecosystem contains distinct mechanisms: NESDA micro-enterprise financing (up to DZD10m through self, mixed or triangular structures); FGAR bank-credit guarantees (10–80% by project risk in the general route, up to DZD100m guarantee); CGCI-PME guarantees for eligible tangible investment credits/leasing (up to DZD350m eligible credit, 80% creation/60% development coverage, subject to sector exclusions); and AAPI investment incentives tied to priority-sector, zone or structuring projects requiring prior registration. [S132–S140]
@@ -134,6 +144,7 @@ These are not interchangeable:
 | Cybersecurity services and assurance | Decree 26-07 creates public-sector security structures; local integrators, specialists and GIE-scoped evaluation bodies already supply services. | Actual outsourcing budgets, award records, credentials, customer outcomes, SLAs and cost-to-serve. |
 | Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |
 | Public procurement Articles 41 and 58 | Article 41 permits narrow direct negotiation for unique/innovative labelled-startup digital solutions; Article 58 reserves certain satisfiable needs for SMEs/TPEs/labelled startups unless justified, within a 20% ceiling. | Implementing procedure, 20% calculation, actual reserved tenders/awards, qualifications and payment/acceptance. |
+| Electronic procurement supplier enablement and intelligence | A 2026 order defines official portal functions, data content and secure submission; NESDA offers SME onboarding help. | Live feature maturity, accessible/exportable data, reuse terms, SME bid pain, rejection rates, paid demand and security responsibilities. |
 | SME finance and investment incentives | NESDA, FGAR, CGCI-PME and AAPI provide distinct debt, guarantee and investment-incentive routes. | Product/project eligibility, bank participation, collateral, sector exclusions, disbursement timing and project economics. |
 | Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
