@@ -51,14 +51,16 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. **Enterprise R&D/innovation spending:** identify Algerian-law companies with turnover >=DZD2bn, sector, taxable-profit capacity, likely internal R&D and public evidence of external innovation partnerships.
-2. **Tax implementation:** obtain current DGI guidance and verify Article 119 sector/application regulations; inspect the 2025 amended Article 147 quater order and exact evidence/document rules.
-3. **Open Innovation platform:** count live challenges, matched proposals, signed six-month contracts, delivered projects and repeat buyers.
-4. **Startup/Scale-up eligibility:** resolve Article 119's statutory startup/incubator wording versus the portal's additional scale-up listing; verify the Scale-up label criteria.
-5. **Financing:** verify ASF portfolio, funded deals, follow-on capital and actual investment amounts separately from processed applications and partner introductions.
-6. **Public procurement:** search for Article 41 implementing texts and actual awards; establish uniqueness criteria, eligibility and contracting-authority practice.
-7. **DIHs:** obtain DIHMA/GIH consortium membership, signed agreements, service catalogues and first paid SME implementation projects.
-8. **Market economics:** compare a corporate open-innovation contract, ordinary B2B pilot and public-sector contract on sales cycle, delivery risk, payment timing, margin and renewal.
+1. **Public cybersecurity and privacy:** verify Decree 26-07 implementation, GIE accreditation status, procurement awards and incumbent supplier qualifications.
+2. **Cloud and compute:** verify ARPCE authorizations and compare providers on real workloads, SLAs and total cost.
+3. **Enterprise R&D/innovation:** identify large firms above the DZD2bn turnover threshold, actual open-innovation contracts and Article119 implementing rules.
+4. **SME financing:** verify NESDA route eligibility, FGAR/CGCI bank requirements, AAPI project eligibility and actual financed projects.
+5. **Healthcare:** after the 15 Nov 2026 CHU target, verify rollout, usage, suppliers, awards and exchange.
+6. **Agriculture:** verify SNAI module rollout/data access and paid farm-level adoption/ROI.
+7. **Manufacturing/energy:** use DIHMA/GIH access to map SME needs, installed systems, and paid implementation projects.
+8. **Payments/logistics/ports:** verify PSP operating approvals, merchant APIs, courier reliability and APCS coverage/governance.
+9. **Construction/education/tourism:** verify live platform usage, integration scope, procurements and product adoption.
+10. **Economics:** only size a specific workflow after volume, budget owner, cost to serve, financing path and delivery capacity are established.
 
 ## Known gaps
 
@@ -105,6 +107,17 @@ The next pass extends the map to payments, logistics, ports/customs, constructio
 The public-sector digitization footprint is becoming substantial, but public platforms can be both enablers and incumbents. Search for complementary integration, migration, assurance and support needs rather than assume replacement opportunities.
 
 Last-mile logistics and COD operations are more crowded than a simple pain-point scan suggests. Port/freight logistics is distinct and needs its own technical and governance research.
+
+## SME financing and investment incentives update — 2 November 2026
+
+[Full SME financing map](20-SME-FINANCING-AND-INVESTMENT-INCENTIVES-2026-11-02.md).
+
+- **NESDA:** advertises micro-enterprise creation/expansion financing up to DZD10m, including mixed and triangular structures with agency unremunerated-loan participation and bank lending. Eligibility, own contribution and activity rules vary by route. [S132–S134]
+- **FGAR:** provides bank-credit guarantee coverage from 10% to 80% depending on project risk, with a DZD100m maximum guarantee in the described general creation/extension route. It still requires a bankable project and can coexist with ordinary bank collateral. [S135–S136]
+- **CGCI-PME:** guarantees eligible tangible investment credits/leasing with a maximum eligible loan of DZD350m; published cover is 80% for creation and 60% for development, with sector exclusions. [S137–S138]
+- **AAPI:** three investment regimes (priority sectors, zones and structuring projects) require advance investment registration. The structural-investment threshold includes at least 500 jobs and DZD10bn of investment. [S139–S140]
+
+**Interpretation:** startup equity, micro-enterprise loans, SME bank guarantees and investment incentives are different financial instruments. A business model should be matched to its capital intensity, legal form, sector, eligibility and ability to service debt—not assume public support is interchangeable.
 
 ## Funding and commercialization access update — 2 November 2026
 
@@ -160,6 +173,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
 - [Procurement, DIH and national cybersecurity strategy signals](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
 - [Funding, tax incentives and market access](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md)
+- [SME financing and investment incentives](20-SME-FINANCING-AND-INVESTMENT-INCENTIVES-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
