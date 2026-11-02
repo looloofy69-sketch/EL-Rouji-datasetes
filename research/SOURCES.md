@@ -1,6 +1,6 @@
 # Source Register
 
-**Research access date:** 1 November 2026  
+**Research access date:** Updated through 2 November 2026  
 Links point to primary sources where available. Vendor pages document public positioning, not independent product audits.
 
 | ID | Source | Date | Quality | Use and caveat |
