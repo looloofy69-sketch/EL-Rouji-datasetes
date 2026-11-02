@@ -136,6 +136,15 @@ Links point to primary sources where available. Vendor pages document public pos
 | S129 | Algerian Startup Fund, [ASF official site and programme metrics](https://asf.dz/) | Accessed 2 Nov 2026 | C official fund claims | Describes equity/quasi-equity, six public-bank partnership, tickets up to DZD150m depending on need/maturity, and label prerequisite. The DZD1.3bn metric is partner introductions for pilots, not invested capital. |
 | S130 | Algeria Law Library, [Law No. 23-12 — Article 41 public procurement direct negotiation](https://www.algerialawlibrary.com/laws/loi-n-23-12-du-18-moharram-1445-correspondant-au-5-aot-2023) | 5 Aug 2023 law | B / legal text reproduction | Article 41 lists direct negotiation as one of seven exceptional cases, including labelled startups providing digital/innovation services with unique and innovative solutions. Verify against official Journal and implementing rules. |
 | S131 | Directorate General of Budget, [Startup access to public procurement — implementing texts for Article 41](https://dgb.mf.gov.dz/?lang=fr&p=3869) | 5 May 2026 | A official government statement | States implementation texts were being finalized; this was the latest official status located in this pass. It does not prove the texts remain unpublished as of 2 Nov 2026. |
+| S132 | NESDA, [Financing solutions](https://www.nesda.dz/Home/Financement) | Accessed 2 Nov 2026 | A official agency | Current funding page lists self, mixed and triangular financing, up to DZD10m project funding, unremunerated agency loans and differentiated founder/agency/bank contribution ratios; verify applicant/project category. |
+| S133 | NESDA, [Activity expansion programme](https://www.nesda.dz/Home/NesdaExtension) | Accessed 2 Nov 2026 | A official agency | Programme offers up to DZD10m for qualifying micro-enterprise expansion; requires age 20–58, two years' activity evidence and further rules for prior/non-prior beneficiaries. |
+| S134 | NESDA, [Mutual Caution Fund / FCMG](https://www.nesda.dz/Home/FCMG) | Accessed 2 Nov 2026 | A official agency | Describes the guarantee fund for NESDA bank loans, 0.35% enterprise contribution, 1% bank contribution, and up to 70% compensation after qualifying default procedure. |
+| S135 | FGAR, [Guarantee coverage modalities](https://www.fgar.dz/portal/fr/content/modalit%C3%A9s-de-la-couverture) | Accessed 2 Nov 2026 | A official fund | States project-based 10–80% guarantee, up to DZD100m guarantee for creation/extension, max 7-year investment credit/10-year leasing, business-plan requirement and continued bank security. |
+| S136 | FGAR, [Eligibility criteria FGAR/MEDA](https://www.fgar.dz/portal/fr/content/crit%C3%A8res-d%C3%A9ligibilit%C3%A9-fgar-meda) | Accessed 2 Nov 2026 | A official fund | Separately describes MEDA eligibility for private SMEs in development/industry-linked services and exclusions for creation/transmission; do not combine MEDA limits with the general FGAR route. |
+| S137 | CGCI-PME, [PME guarantee](https://cgci.dz/garantie-pme/) and [FAQ](https://cgci.dz/faq-cgci-pme/) | Accessed 2 Nov 2026 | A official fund | Describes investment-credit/leasing eligibility, max DZD350m loan, 80% creation/60% development coverage and sector exclusions; guarantee goes to bank and does not replace ordinary collateral. |
+| S138 | CGCI-PME, [TPE/PE delegated guarantee](https://cgci.dz/garantie-tpe/) | Accessed 2 Nov 2026 | A official fund | Separate delegated guarantee route for TPE/PE investment credits; published bank-delegated decision limit is DZD50m. |
+| S139 | AAPI, [Investment incentive regimes](https://aapi.dz/regimes-dincitation/) and [Investor's toolkit](https://aapi.dz/mallette-de-linvestisseur/) | Accessed 2 Nov 2026 | A official agency | Describes priority-sector, zone and structuring-investment regimes; prior registration through competent one-stop shop or investor platform required before investment realization. |
+| S140 | DGI, [AAPI investment incentive tax conditions](https://mfdgi.gov.dz/fr/professionnels/avantages-investissement/avantages-fiscaux-aapi-fr) | Accessed 2 Nov 2026 | A official tax authority | Lists eligible AAPI sectors/regions and structural-investment thresholds, including >=500 direct jobs and >=DZD10bn; exact regime and asset eligibility must be checked. |
 
 ## Source-use notes
 
@@ -143,6 +152,7 @@ Links point to primary sources where available. Vendor pages document public pos
 - Preserve date, geography, denominator and methodology when reusing statistics.
 - Sources do not provide a reliable current addressable-market estimate for the proposed document-operations product.
 - Dataset availability does not imply permission to redistribute, retrieve or train on the dataset.
+
 
 
 
