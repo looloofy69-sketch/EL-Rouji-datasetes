@@ -1,6 +1,6 @@
 # Research Queue — Next Landscape Passes
 
-**Updated:** 1 November 2026  
+**Updated:** 2 November 2026  
 **Purpose:** direct the next research cycle toward uncertainties most likely to change the opportunity map.
 
 ## Priority 1 — regulatory implementation and trust infrastructure
@@ -173,6 +173,27 @@ Do not size the entire AI market. After a workflow is identified, use bottom-up 
 - retention and expansion potential.
 
 Record low/base/high assumptions and distinguish known counts from estimated conversion factors.
+
+## Priority 1 — procurement outcomes, DIH implementation and strategy execution
+
+### CERIST and public institutions
+- Track 02/CERIST/2026 managed cybersecurity through corrected technical specification, final award, contract value, service commencement and renewal.
+- Obtain outcomes for CERIST consultations 04 (backup/restore), 05 (anti-DDoS), 06/07 (GPU), 08 (SOC video wall) and 09 (Zimbra support renewal).
+- Follow consultation 09 through its 8 November 2026 deadline; identify selected supplier, supported release scope, upgrade plan and renewal terms.
+- Find comparable procurements and award notices at universities, hospitals, utilities, telecoms, research institutions and other sensitive sectors named by the national strategy.
+- Distinguish consultation, award, contract signature, delivery/acceptance and renewal.
+
+### DIHMA and Green Innovation Hub
+- Obtain full consortium membership, final service catalogues, signed agreements, operational plans and support/funding terms.
+- Determine first SME cohorts, DMA/IMA diagnostics, observed problems and resulting paid projects.
+- Map how suppliers are selected, whether external vendors can become delivery partners, and how performance is evaluated.
+- Track whether the DIHs generate implementation opportunities or mainly diagnostic/training activity.
+
+### National cybersecurity strategy
+- Map the four strategic axes to ASSI guidance, standards, sector implementation requirements, staffing and procurement.
+- Identify measurable targets, milestones and responsible institutions if published.
+- Check whether private-sector entities in critical sectors are directly addressed by implementation guidance, and what proof/assurance suppliers must provide.
+- Search for implementing decrees, circulars, standards and sector-specific technical requirements.
 
 ## Research pass exit criteria
 
