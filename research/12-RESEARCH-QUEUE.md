@@ -294,6 +294,31 @@ For each viable business model, compare ASF equity/quasi-equity, corporate open 
 - time to disbursement and required proof;
 - ability to cover working capital, payroll and customer payment delays.
 
+## Procurement supplier-side research follow-on
+
+### Competitive benchmark
+- Compare the same 100-tender sample across the official portal and at least three paid providers.
+- Measure recall, precision, duplicate rates, update latency, addendum detection, award linkage, entity resolution and normalized-price accuracy.
+- Obtain written current quotes; record plan coverage, tax, archive range, data export rights and service-level commitments.
+- Test document retrieval, translation, filing and representation as delivered services, not just website claims.
+
+### Supplier bid-readiness
+- Build a taxonomy of eligibility and rejection failure: expired/missing evidence, technical nonconformity, guarantee, forms, deadline, signature/channel and missed addendum.
+- Estimate bid frequency, preparation hours, cost per bid, win rate, preventable failure rate and repeated evidence reuse.
+- Compare micro-enterprise, SME, specialist service provider and larger-contractor workflows; do not pool them into one average.
+- Test willingness to pay for self-service workflow software versus one-time bid review and managed bid operations.
+
+### Contract-to-cash and finance
+- Obtain current CGMP and bank guarantee conditions, fees, collateral, approval times, eligible contract types and availability by company segment.
+- Measure certified-invoice-to-payment time, receivables mobilization usage, advance guarantees, guarantee release times and late-payment claim use.
+- Check whether CGMP/banks expose permitted integration or referral channels; otherwise model them as external human workflows.
+- Determine whether invoice/progress/guarantee handoffs create enough repeated administrative work to justify a paid tool.
+
+### Article 58 and portal operation
+- Search full tender specifications and award documents for reserved lots/eligible categories and justified exceptions; separate “not stated” from “not applicable”.
+- Test portal registration, search, alerts, free document download, upload, e-signature, timestamp receipt, status tracking, helpdesk and support from a standard supplier account.
+- Check whether data can be exported or reused commercially; do not assume the 2026 order creates an open API or blanket reuse licence.
+
 ## Research pass exit criteria
 
 A lane can be deprioritized when:
