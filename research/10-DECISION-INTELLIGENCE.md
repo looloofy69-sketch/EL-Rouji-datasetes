@@ -1,4 +1,4 @@
-| Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |\n# Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
+# Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
 
 **As of:** 1 November 2026  
 **Status:** living decision register; no product commitment implied.
@@ -113,6 +113,7 @@ Article 41 of Law 23-12 includes labelled startups with unique and innovative di
 | Language technology | Speech/text evaluation, entity resolution, transcription QA, multilingual search and localized models | Dataset rights, field quality, funded buyer, representative evaluation and cost |
 | Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |
 | Cybersecurity services and assurance | Decree 26-07 creates public-sector security structures; local integrators, specialists and GIE-scoped evaluation bodies already supply services. | Actual outsourcing budgets, award records, credentials, customer outcomes, SLAs and cost-to-serve. |
+| Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |
 | Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
 ## 3. Current decision guardrails
