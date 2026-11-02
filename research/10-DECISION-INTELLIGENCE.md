@@ -1,4 +1,4 @@
-# Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
+| Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |\n# Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
 
 **As of:** 1 November 2026  
 **Status:** living decision register; no product commitment implied.
@@ -88,6 +88,18 @@ GIE Monétique's approved-evaluation register lists providers and exact accredit
 **Implication:** generic cybersecurity services are already supplied by several local and international providers. Differentiation must be tested in a specific vertical, operating model, response-time/service guarantee, deployment constraint, productized evidence workflow or qualification scope. 24/7 SOC/MDR has high staffing, tooling and liability costs; do not infer attractive economics from advertised service menus.
 
 CERIST's page lists a 2026 managed-cybersecurity consultation, but its linked PDF extracted text ends with a 30 October 2024 deadline. Treat the specification as mismatched/stale until CERIST confirms the correct file. The notice establishes a procurement lead, not an award or current technical requirement. [S62–S63]
+
+### K. Enterprise R&D spending, open innovation and startup market access
+
+Article 119 of Finance Law 2026 requires Algerian-law establishments with annual turnover at or above DZD2bn to allocate at least 1% of taxable profit to R&D/innovation. Activities may be internal or conducted through open-innovation programmes with labelled startups/incubators; implementing regulation must establish sector scope and application modalities. The R&D&I declaration service is still marked “opening soon”, and its page includes scale-ups although statutory wording does not. [S18, S121–S122]
+
+This is separate from Article 147 quater of the 2025 Finance Law, which gives a capped taxable-profit allowance for qualifying R&D/open-innovation spend. The 2025 law repealed Article 171, and the 22 April 2025 interministerial order updated the 9 May 2023 order to Article 147 quater while retaining the six-month contract and mandatory terms. The Open Innovation site still cites the older Article 171 / Finance Law 2023 wording, so official law and amended order take precedence over stale explanatory website text. [S117–S120, S123]
+
+The Open Innovation platform accepts company challenges; however, posting, matching, signed contract, delivery and payment are separate states. ASF offers equity/quasi-equity and partner introductions for labelled startups, but its published headline metrics are fund-reported; its DZD1.3bn figure is partner introductions, not cash invested. [S123–S129]
+
+Article 41 of Law 23-12 includes labelled startups with unique and innovative digital/innovation solutions as one narrow exception for direct negotiated procurement. The DGB's latest located official statement (5 May 2026) says implementing texts were being finalized. This is not a blanket startup procurement waiver. [S130–S131]
+
+**Implication:** corporate open-innovation contracts may form a real commercialization channel. To prove it, identify qualifying large firms, actual funded challenges, contract values, deliverables, paid invoices, renewals and the legal documentation required. Do not treat a tax deduction or expenditure obligation as evidence of startup revenue.
 
 ## 2. Opportunity themes to keep open
 
