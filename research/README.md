@@ -50,6 +50,7 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Cybersecurity services and assurance landscape](15-CYBERSECURITY-SERVICES-LANDSCAPE.md)
 - [Sector landscape: agriculture, healthcare and manufacturing](16-SECTOR-LANDSCAPE-AGRI-HEALTH-MANUFACTURING.md)
 - [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
+- [Procurement, DIH and national cybersecurity strategy signals — 2 Nov 2026](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 ## Change control
