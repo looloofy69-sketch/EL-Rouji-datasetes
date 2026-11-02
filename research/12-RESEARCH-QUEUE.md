@@ -195,6 +195,28 @@ Record low/base/high assumptions and distinguish known counts from estimated con
 - Check whether private-sector entities in critical sectors are directly addressed by implementation guidance, and what proof/assurance suppliers must provide.
 - Search for implementing decrees, circulars, standards and sector-specific technical requirements.
 
+## Priority 2 — enterprise R&D/innovation spending and open-innovation conversion
+
+### Article 119 demand-side mechanism
+- Identify Algerian-law companies with annual turnover at/above DZD 2bn by sector using official registries, annual reports and audited disclosures.
+- Separate turnover qualification from taxable-profit base; estimate theoretical spending only where both are evidenced.
+- Find the final list of eligible sectors and modalities in the implementing regulation.
+- Confirm whether the R&D&I declaration service has opened, what its 31 January deadline applies to, and how next-year commitments are declared.
+- Verify whether scale-up labels are eligible despite Article 119 wording naming startups/incubators.
+
+### Article 147 quater allowance and open innovation
+- Verify current DGI guidance/circular and the 22 April 2025 amendment to the 9 May 2023 order.
+- Inspect contract templates and mandatory IP, deliverable, milestone, duration, payment and termination fields.
+- Confirm eligible expenses, required proof, invoicing and audit treatment with current DGI guidance.
+- Identify companies that have claimed the allowance and startups/incubators that have been contracted.
+- Count signed, delivered and paid projects separately from platform sign-ups or problem submissions.
+
+### Open Innovation platform
+- Build an inventory of actual company challenges currently posted.
+- Identify buyer, problem owner, sector, budget signal, deadline, data/site access, and expected result.
+- Track startup proposals, selection, contracts, deliverables, acceptance and follow-on work.
+- Determine whether the platform's 2024 challenge page and problem-submission service remain actively maintained.
+
 ## Research pass exit criteria
 
 A lane can be deprioritized when:
