@@ -52,6 +52,7 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Sector landscape: payments, logistics, public services and tourism](17-SECTOR-LANDSCAPE-FINANCE-LOGISTICS-PUBLIC-SERVICES-TOURISM.md)
 - [Procurement, DIH and national cybersecurity strategy signals — 2 Nov 2026](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
 - [Funding, tax incentives and market access — 2 Nov 2026](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md)
+- [SME financing, credit guarantees and investment incentives — 2 Nov 2026](20-SME-FINANCING-AND-INVESTMENT-INCENTIVES-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 ## Change control
