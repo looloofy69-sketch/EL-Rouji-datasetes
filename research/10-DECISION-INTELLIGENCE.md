@@ -101,6 +101,18 @@ Article 41 of Law 23-12 includes labelled startups with unique and innovative di
 
 **Implication:** corporate open-innovation contracts may form a real commercialization channel. To prove it, identify qualifying large firms, actual funded challenges, contract values, deliverables, paid invoices, renewals and the legal documentation required. Do not treat a tax deduction or expenditure obligation as evidence of startup revenue.
 
+### L. SME financing, guarantees and investment incentives
+
+The financing ecosystem contains distinct mechanisms: NESDA micro-enterprise financing (up to DZD10m through self, mixed or triangular structures); FGAR bank-credit guarantees (10–80% by project risk in the general route, up to DZD100m guarantee); CGCI-PME guarantees for eligible tangible investment credits/leasing (up to DZD350m eligible credit, 80% creation/60% development coverage, subject to sector exclusions); and AAPI investment incentives tied to priority-sector, zone or structuring projects requiring prior registration. [S132–S140]
+
+These are not interchangeable:
+- NESDA offers agency/bank loan participation for eligible micro-enterprises, not venture capital.
+- FGAR and CGCI guarantee banks; the enterprise remains liable for the loan and may still need collateral.
+- AAPI incentives are attached to a qualifying registered investment, not ordinary operating expenditure.
+- ASF remains a separate labelled-startup equity/quasi-equity route. [S129]
+
+**Implication:** funding availability should be tested against business model capital intensity. A software-first product may fit startup/open-innovation/ASF pathways; an equipment-heavy integrator may need bank debt and guarantee support; a micro-enterprise field-service model may fit NESDA; a larger asset project may fit AAPI if the sector and registration conditions are met. No eligibility or approval is presumed.
+
 ## 2. Opportunity themes to keep open
 
 | Theme | What could be built or sold | What must be proven |
@@ -114,6 +126,7 @@ Article 41 of Law 23-12 includes labelled startups with unique and innovative di
 | Cloud, compute and managed infrastructure | Local data centers, developer clouds and GPU/cyber procurement are developing. | Current authorization, SLA, capacity, utilization, workload demand and incumbent economics. |
 | Cybersecurity services and assurance | Decree 26-07 creates public-sector security structures; local integrators, specialists and GIE-scoped evaluation bodies already supply services. | Actual outsourcing budgets, award records, credentials, customer outcomes, SLAs and cost-to-serve. |
 | Enterprise open innovation and startup market access | Article 119 creates a large-enterprise R&D/innovation allocation; Article 147 quater and the Open Innovation platform support qualifying startup partnerships. | Implementing rules, label eligibility, actual challenges/contracts, buyer budgets, tax evidence and repeat paid delivery. |
+| SME finance and investment incentives | NESDA, FGAR, CGCI-PME and AAPI provide distinct debt, guarantee and investment-incentive routes. | Product/project eligibility, bank participation, collateral, sector exclusions, disbursement timing and project economics. |
 | Agent assurance | Workflow-specific testing, observability, policy checks, recovery and audit | Buyer urgency, measurable failures and competitive difference |
 
 ## 3. Current decision guardrails
