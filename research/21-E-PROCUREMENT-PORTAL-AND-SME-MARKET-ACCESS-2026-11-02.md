@@ -121,6 +121,18 @@ Where certain needs can be satisfied by SMEs, very small enterprises or labelled
 
 **Commercial consequence:** Article 58 could be more relevant than Article 41 for ordinary eligible goods/services or smaller procurement lots. A supplier may qualify through SME/startup status and technical capacity even if its solution is not unique/innovative enough for Article 41. That interpretation should be confirmed with procurement counsel and tested against actual tender documents.
 
+## 6A. General implementing decree and phased electronic submission — status as at 2 November 2026
+
+The Government's official 18 March 2026 communiqué says examination of a draft executive decree fixing the application modalities of Law 23-12 had begun. Its 30 April 2026 communiqué says the Government had finalized examination of that draft after several sessions. Neither statement establishes that the text was subsequently signed, promulgated or published in the Official Journal. No final general application decree was located in this research pass; that is a bounded search finding, not a legal certification that no later text exists. [S157–S158]
+
+A separate operational point is important: **Article 107 of Law 23-12 makes electronic exchange and electronic bidder responses subject to a timetable fixed by an order of the Minister of Finance.** The February 2026 order in Official Journal No. 17 concerns Article 105 (portal content and management); it is not itself the Article 107 timetable. The latter was not located in this pass. UpGrowth, a commercial tender-support provider, also states that it had not found the timetable order in its Gazette archive and says suppliers should follow the instructions in each tender notice; this is a secondary source and should be checked against the complete official register. [S130, S141, S159]
+
+This distinction changes how to read the CERIST examples: its 2026 SOC-wall notice asked for email/fax submission and its Zimbra-support notice specified email. These notices demonstrate that non-portal channels were still being specified in this limited sample after the Article 105 order; they do **not** prove nationwide non-adoption, non-compliance or contradiction with Article 107 while the phased timetable and tender-specific requirements remain to be established. Follow the applicable tender notice, not an assumed universal electronic-submission date. [S162–S163]
+
+The Article 41 position also needs scope precision. Article 41 has several exceptional negotiation cases. An interministerial order of 9 October 2025 does implement the cultural/artistic-services case under its first indent; that is not the separate labelled-startup digital/innovation exception. DGB's 5 May 2026 statement specifically said the startup-related implementing texts were being finalized. [S164, S131]
+
+Article 112 remains the transition rule: regulatory provisions continue insofar as they are not contrary to Law 23-12 until replacement regulations are published. Do not assume that the entire 2015 presidential decree either remains wholly applicable or has been wholly displaced; test the individual rule, relevant implementing text and tender launch/notification date. [S130]
+
 ## 7. Potential supplier opportunities around the portal
 
 | Opportunity | Target user/buyer | Possible offer | Main validation needed |
