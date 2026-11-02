@@ -190,6 +190,17 @@ New evidence should reopen only the dependent claims and decisions. It should no
 
 
 
+
+
+### Procurement implementation and observed practice — 2 November 2026
+
+- The Government began reviewing the general implementing decree for Law 23-12 in March and finalized its examination of the draft on 30 April 2026. This is not proof of signature/publication/commencement. No final general decree was located in this research pass. [S157–S158]
+- Article 107 requires electronic submission according to a timetable fixed by a Finance Minister order. The February 2026 portal order concerns Article 105, not that timetable. The Article 107 schedule was not located; vendor guidance also flags the missing timetable, but this needs a complete official-register check. [S130, S141, S159]
+- Therefore CERIST's two email/fax submission examples are evidence of specified practice in two procedures only—not proof of nationwide non-adoption or legal non-compliance. [S162–S163]
+- CERIST's 2025 similarity-detection consultations produced provisional awards to ABYSOFT SARL of DZD1,675,520 TTC and DZD877,030 TTC. They are not yet verified as paid, accepted or deployed contracts. [S160–S161]
+- Article 41 already has a sector-specific cultural/artistic order under its first indent; this is distinct from the labelled-startup digital/innovation exception. DGB's May 2026 status statement specifically concerned startup-related implementing texts. [S131, S164]
+- A supplier-service provider publicly advertises bid preparation from DZD150,000 HT, review from DZD60,000 and ongoing dossier management from DZD30,000/month. This is one vendor's price list, not a market average or verified sales. [S159]
+
 ## Procurement supplier-side market correction — 2 November 2026
 
 [Full supplier-side and bid-to-cash assessment](22-PROCUREMENT-SUPPLIER-ECONOMY-AND-BID-TO-CASH-2026-11-02.md).
