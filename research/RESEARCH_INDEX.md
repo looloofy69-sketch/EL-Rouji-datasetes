@@ -51,16 +51,16 @@ This is a research-priority map, not a quantified attractiveness ranking.
 
 ## Immediate next research
 
-1. **Public cybersecurity and privacy:** verify Decree 26-07 implementation, GIE accreditation status, procurement awards and incumbent supplier qualifications.
-2. **Cloud and compute:** verify ARPCE authorizations and compare providers on real workloads, SLAs and total cost.
-3. **Enterprise R&D/innovation:** identify large firms above the DZD2bn turnover threshold, actual open-innovation contracts and Article119 implementing rules.
-4. **SME financing:** verify NESDA route eligibility, FGAR/CGCI bank requirements, AAPI project eligibility and actual financed projects.
-5. **Healthcare:** after the 15 Nov 2026 CHU target, verify rollout, usage, suppliers, awards and exchange.
-6. **Agriculture:** verify SNAI module rollout/data access and paid farm-level adoption/ROI.
-7. **Manufacturing/energy:** use DIHMA/GIH access to map SME needs, installed systems, and paid implementation projects.
-8. **Payments/logistics/ports:** verify PSP operating approvals, merchant APIs, courier reliability and APCS coverage/governance.
-9. **Construction/education/tourism:** verify live platform usage, integration scope, procurements and product adoption.
-10. **Economics:** only size a specific workflow after volume, budget owner, cost to serve, financing path and delivery capacity are established.
+1. **Procurement portal and SME access:** test supplier registration, bid upload, e-signature, timestamp receipt, alerts, results and data exports; inspect actual Article 58 reserved lots/awards and Article 41 implementation.
+2. **Public cybersecurity and privacy:** verify Decree 26-07 implementation, GIE accreditation status, procurement awards and incumbent supplier qualifications.
+3. **Cloud and compute:** verify ARPCE authorization and compare providers on real workloads, SLAs and total cost.
+4. **Enterprise R&D/innovation:** identify large firms above DZD2bn turnover, actual open-innovation contracts and Article119 implementing rules.
+5. **SME financing:** verify NESDA eligibility, FGAR/CGCI bank requirements, AAPI project eligibility and actual financed projects.
+6. **Healthcare:** after the 15 Nov 2026 CHU target, verify rollout, usage, suppliers, awards and inter-facility exchange.
+7. **Agriculture:** verify SNAI module rollout/data access and paid farm-level adoption/ROI.
+8. **Manufacturing/energy:** use DIHMA/GIH access to map SME needs, installed systems and paid implementation projects.
+9. **Payments/logistics/ports:** verify PSP operating approvals, merchant APIs, courier reliability and APCS coverage/governance.
+10. **Economics:** size a workflow only after volume, budget owner, cost to serve, financing route and delivery capacity are established.
 
 ## Known gaps
 
@@ -107,6 +107,15 @@ The next pass extends the map to payments, logistics, ports/customs, constructio
 The public-sector digitization footprint is becoming substantial, but public platforms can be both enablers and incumbents. Search for complementary integration, migration, assurance and support needs rather than assume replacement opportunities.
 
 Last-mile logistics and COD operations are more crowded than a simple pain-point scan suggests. Port/freight logistics is distinct and needs its own technical and governance research.
+
+## Electronic procurement portal update — 2 November 2026
+
+[Full portal and SME-access assessment](21-E-PROCUREMENT-PORTAL-AND-SME-MARKET-ACCESS-2026-11-02.md).
+
+- **Legal implementation:** an interministerial order of 4 February 2026, published 2 March, defines the portal's contents and management and repeals the 2013 portal order. [S141]
+- **Core functions:** registration, multi-criteria search, alerts, notice/programme/award publication, document exchange, bid upload, e-signature, timestamps, encrypted exchange, event logs, interoperability and secure archiving. [S141]
+- **Supplier enablement:** DGB invites operators to register; NESDA describes electronic submission/result tracking and offers registration workshops for micro-enterprises. This is guidance, not independent end-to-end system testing. [S142–S143]
+- **Commercial boundary:** the state portal is the core system. The open question is whether suppliers will pay for bid-readiness, evidence management, tender intelligence or integrations beyond the free baseline. No commercial gap has been validated.
 
 ## SME financing and investment incentives update — 2 November 2026
 
@@ -174,6 +183,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Procurement, DIH and national cybersecurity strategy signals](18-PROCUREMENT-DIH-AND-CYBER-STRATEGY-SIGNALS-2026-11-02.md)
 - [Funding, tax incentives and market access](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md)
 - [SME financing and investment incentives](20-SME-FINANCING-AND-INVESTMENT-INCENTIVES-2026-11-02.md)
+- [Electronic procurement portal and SME market access](21-E-PROCUREMENT-PORTAL-AND-SME-MARKET-ACCESS-2026-11-02.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
