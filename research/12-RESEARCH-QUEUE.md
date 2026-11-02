@@ -296,6 +296,16 @@ For each viable business model, compare ASF equity/quasi-equity, corporate open 
 
 ## Procurement supplier-side research follow-on
 
+### Procurement-law transition and contract evidence
+- Monitor Official Journal issues after the Government's 30 Apr 2026 completed-review communiqué for final publication of the general implementing decree; record the exact publication/effective date and transitional treatment.
+- Locate the Article 107 Finance Minister timetable for mandatory electronic exchange/submission. Do not equate the Article 105 portal-management order with the Article 107 schedule.
+- Check the tender-specific legal basis for email, fax and paper submission in post-March 2026 procedures; distinguish allowed phase-in from old process persistence.
+- Follow CERIST provisional awards 15/2025 and 16/2025 to final award, contract notification, delivery, acceptance, payment and renewal.
+- Expand the sample beyond CERIST: compare research centres, universities, hospitals, utilities, municipalities and central ministries; record channel, number of bidders, award method and lifecycle state.
+- Track Article 41 by its seven separate legal cases; do not extrapolate a sector-specific order to the labelled-startup exception. Track Article 58 separately.
+
+
+
 ### Competitive benchmark
 - Compare the same 100-tender sample across the official portal and at least three paid providers.
 - Measure recall, precision, duplicate rates, update latency, addendum detection, award linkage, entity resolution and normalized-price accuracy.
