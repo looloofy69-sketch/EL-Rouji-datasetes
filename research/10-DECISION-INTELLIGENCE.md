@@ -210,3 +210,12 @@ The government portal's free-download baseline further weakens generic aggregati
 24. Do not treat historical OECD payment-delay or training findings as 2026 measurements; collect fresh supplier-side data.
 25. Do not build a generic tender aggregator, bid-writing bot or two-sided marketplace without a demonstrable underserved segment and paid evidence.
 
+
+
+26. Do not equate the Government's completed examination of a draft general implementing decree with signature, Official Journal publication or effective date.
+27. Distinguish Law 23-12 Article 105 (portal content/management) from Article 107 (phased electronic exchange/submission timetable set by ministerial order).
+28. Treat email/fax submission examples as tender-specific practice; do not infer national portal non-adoption or non-compliance from a small sample.
+29. Treat a provisional award as pre-contract evidence only until final award, contract notification, delivery, acceptance, payment and any renewal are verified.
+30. Article 41 implementation can be case-specific: a sector-specific order under one indent does not implement the separate startup exception.
+31. Advertised bid-support prices are one provider's asking prices, not actual revenue, market averages or representative SME willingness-to-pay.
+
