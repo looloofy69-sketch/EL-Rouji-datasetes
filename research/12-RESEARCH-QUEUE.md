@@ -217,6 +217,42 @@ Record low/base/high assumptions and distinguish known counts from estimated con
 - Track startup proposals, selection, contracts, deliverables, acceptance and follow-on work.
 - Determine whether the platform's 2024 challenge page and problem-submission service remain actively maintained.
 
+## Priority 3 — SME finance, guarantees and investment-incentive execution
+
+### NESDA
+- Confirm creation and expansion eligibility for software, IT services, installation/maintenance and equipment-based digital businesses.
+- Verify current funding ceilings, own contributions, repayment terms, tax benefits, guarantees and local agency process.
+- Distinguish self-finance, mixed 50/50 and triangular 70% bank structures; use the detailed profile/region table rather than a generic ratio.
+- Follow actual applications to approval, disbursement, project completion and repayment; programme pages alone do not establish conversion.
+
+### FGAR
+- Verify the correct product (general FGAR versus MEDA), eligible sector, creation/development status and credit purpose.
+- Obtain current bank quotes and FGAR fee/coverage calculation for a real project.
+- Confirm whether collateral/security is still required, the process sequence and typical approval time.
+- Track actual guarantee certificates and financed projects, not just announced ceilings.
+
+### CGCI-PME
+- Check borrower thresholds, sector exclusions, eligible equipment/leasing, covered amount and bank collateral.
+- Verify current TPE delegated guarantee terms separately from the CGCI-PME product.
+- Confirm bank participation and guarantee availability before relying on the coverage in a cash-flow model.
+
+### AAPI
+- Determine which software, data-center, cybersecurity, industrial IoT or renewable-energy projects qualify for priority-sector or zone regimes.
+- Confirm registration-before-realization timing, eligible assets/services and exemption period for each regime.
+- Check the formal structural-investment thresholds (>=500 jobs, >=DZD10bn) before treating it as relevant to an SME.
+- Trace registered investment projects to actual incentive certificates, imports/equipment and operational delivery.
+
+### Funding-route comparison
+For each viable business model, compare ASF equity/quasi-equity, corporate open innovation, NESDA loan, bank debt supported by FGAR/CGCI and AAPI investment incentives on:
+- maximum capital and timing;
+- founder cash contribution;
+- repayment/ownership dilution;
+- permitted expense categories/assets;
+- guarantee/collateral;
+- eligibility and exclusions;
+- time to disbursement and required proof;
+- ability to cover working capital, payroll and customer payment delays.
+
 ## Research pass exit criteria
 
 A lane can be deprioritized when:
