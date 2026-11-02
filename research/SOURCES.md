@@ -145,6 +145,9 @@ Links point to primary sources where available. Vendor pages document public pos
 | S138 | CGCI-PME, [TPE/PE delegated guarantee](https://cgci.dz/garantie-tpe/) | Accessed 2 Nov 2026 | A official fund | Separate delegated guarantee route for TPE/PE investment credits; published bank-delegated decision limit is DZD50m. |
 | S139 | AAPI, [Investment incentive regimes](https://aapi.dz/regimes-dincitation/) and [Investor's toolkit](https://aapi.dz/mallette-de-linvestisseur/) | Accessed 2 Nov 2026 | A official agency | Describes priority-sector, zone and structuring-investment regimes; prior registration through competent one-stop shop or investor platform required before investment realization. |
 | S140 | DGI, [AAPI investment incentive tax conditions](https://mfdgi.gov.dz/fr/professionnels/avantages-investissement/avantages-fiscaux-aapi-fr) | Accessed 2 Nov 2026 | A official tax authority | Lists eligible AAPI sectors/regions and structural-investment thresholds, including >=500 direct jobs and >=DZD10bn; exact regime and asset eligibility must be checked. |
+| S141 | Journal officiel, [Official Journal No. 17 — Interministerial Order of 4 Feb 2026 fixing the content and management of the electronic public procurement portal](https://www.joradp.dz/FTP/jo-francais/2026/F2026017.pdf) | 2 Mar 2026 | A primary legal text | Articles 2–9 define portal publication, registration, search, alerts, bid submission, electronic signature, timestamping, integrity, confidentiality/encryption, traceability, interoperability and secure archiving; expressly repeals the 2013 portal order. |
+| S142 | Directorate General of the Budget, [Electronic Public Procurement Portal](https://dgb.mf.gov.dz/?lang=fr&page_id=2515) | Accessed 2 Nov 2026 | A official portal | DGB invites economic operators to register online or in person to consult tender notices and download specifications; it links to the national portal. This is an operational access notice, not a portal performance test. |
+| S143 | NESDA, [Electronic Procurement Portal registration and SME assistance](https://nesda.dz/Home/InscriptionMPDZ) | Accessed 2 Nov 2026 | A official agency | NESDA describes portal services: consultations, tender documents, electronic bid submission and tracking results; provides registration steps and says it organizes training/workshops for micro-enterprises. Portal functionality still requires direct end-to-end testing. |
 
 ## Source-use notes
 
@@ -152,6 +155,7 @@ Links point to primary sources where available. Vendor pages document public pos
 - Preserve date, geography, denominator and methodology when reusing statistics.
 - Sources do not provide a reliable current addressable-market estimate for the proposed document-operations product.
 - Dataset availability does not imply permission to redistribute, retrieve or train on the dataset.
+
 
 
 
