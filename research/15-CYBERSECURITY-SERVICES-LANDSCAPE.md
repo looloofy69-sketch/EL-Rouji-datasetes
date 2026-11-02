@@ -152,7 +152,23 @@ No gap is confirmed by the public feature scan. Each needs buyer interviews, pro
 7. Separate general cyber services from GIE payment-system evaluation and from accredited ISO certification.
 8. Measure the total operating cost of 24/7 service before proposing a managed SOC product.
 
-## 8. Current decision
+## 8. Update — national strategy and procurement evidence, 2 November 2026
+
+The full National Information Systems Security Strategy 2025–2029 is now available. It defines four axes: technical-operational capability; legal/organizational/normative framework; training/R&D/awareness; and national/international cooperation. Its named sensitive sectors include government, finance, public safety, energy, health, water, telecommunications, transport and essential-food production/distribution. This broadens the target-sector map but is strategic policy, not proof of budgets or tenders. [S107]
+
+CERIST's 2026 procurement trail is now more detailed:
+- managed cybersecurity for 12 months (02/CERIST/2026);
+- backup/restore with three-year publisher support and training;
+- managed anti-DDoS;
+- GPU compute hardware;
+- SOC video-wall equipment;
+- one-year support renewal for 5,500 Zimbra mailboxes (deadline 8 November 2026). [S109–S115]
+
+These line items show distinct procurement categories and maintenance requirements. The Zimbra tender is particularly useful evidence of support/upgrade work on an existing enterprise platform. Zimbra 10.1.21 was released on 24 September 2026 with additional security fixes, but the tender's reference to 10.1.16 does not establish the installation's current patch state. [S110, S114]
+
+The 2026 cybersecurity consultation's linked PDF still appears to carry a 2024 deadline; the primary specification must be corrected/confirmed before treating its technical details as valid 2026 requirements. [S62–S63]
+
+## 9. Current decision
 
 **Continue cybersecurity market research; do not yet enter as a generic cyber consultancy or SOC provider.**
 
