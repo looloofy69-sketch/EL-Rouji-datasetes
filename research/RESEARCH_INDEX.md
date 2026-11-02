@@ -188,3 +188,18 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
 
+
+
+## Procurement supplier-side market correction — 2 November 2026
+
+[Full supplier-side and bid-to-cash assessment](22-PROCUREMENT-SUPPLIER-ECONOMY-AND-BID-TO-CASH-2026-11-02.md).
+
+- **Tender alerts are a crowded paid category:** inspected providers advertise annual plans from about DZD7,900 to DZD35,900, with differences in sector coverage, tax treatment and services. [S144–S149]
+- **Award intelligence is already commercialized:** Algeria Tenders advertises bidder/authority rankings, competitor market share, submitted prices, award values and sector/geographic analytics. [S148]
+- **Manual support is already supplied:** providers advertise document retrieval, bid filing, opening-session representation and translation; NESDA offers portal onboarding/training support. [S143, S145, S147]
+- **A private procurement marketplace also exists:** SAFAKAT markets tender/auction/group-buying workflows; actual liquidity and transaction volume are unverified. [S150]
+- **Supplier finance is not a blank space:** CGMP and banks advertise bid/performance/advance guarantees and working-capital/receivable products. [S151–S154]
+- **Revised hypothesis:** any remaining opportunity is more likely in a narrow supplier workflow—bid qualification/evidence management or post-award contract-to-cash handoffs—than another tender feed, award dashboard or marketplace. Neither is validated.
+- **Portal status:** the official order specifies free downloads and a broad digital feature set, but direct technical access, live functionality, API availability and bulk-data reuse rights remain unverified. [S141–S143]
+- **Article 58:** no verified reserved-lot notice or award was found in this bounded search; this is not proof of non-use.
+
