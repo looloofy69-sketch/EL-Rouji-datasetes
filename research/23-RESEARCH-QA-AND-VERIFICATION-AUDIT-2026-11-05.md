@@ -88,7 +88,7 @@ python scripts/validate_research.py
 python -m unittest discover -s tests -v
 ```
 
-**Verified CI result:** GitHub Actions run [42056904055](https://github.com/looloofy69-sketch/EL-Rouji-datasetes/actions/runs/42056904055), for commit `200a98b6875cc17972f9aeb384fbdc541fdd269a`, completed successfully. The validator checked 27 Markdown files, 166 source IDs, 582 citation occurrences and 54 local links: **0 errors, 0 warnings**. The full test suite ran 11 tests: **11 passed**. This verifies the repository state at that commit; later changes should trigger another run.
+**Verified CI result:** GitHub Actions run [42057239524](https://github.com/looloofy69-sketch/EL-Rouji-datasetes/actions/runs/42057239524), for final procurement-report commit `73325bdeb9262d2e3beac9665f5445c3c38b647f`, completed successfully. The validator checked 27 Markdown files, 166 source IDs, 582 citation occurrences and 54 local links: **0 errors, 0 warnings**. The full test suite ran 11 tests: **11 passed**. This verifies the repository state at that commit; later changes should trigger another run.
 
 ## 4. Must-fix next
 
