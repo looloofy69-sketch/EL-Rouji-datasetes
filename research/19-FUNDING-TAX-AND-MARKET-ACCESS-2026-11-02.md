@@ -58,7 +58,7 @@ The detailed application and evidence requirements should be checked against the
 
 ## 3. Article 119, Finance Law 2026: a separate mandatory R&D/innovation allocation
 
-Article 119 of Law No. 25-17 (Finance Law 2026) creates a different mechanism:
+Article 119 of Law No. 25-17 (Finance Law 2026) creates a different mechanism: UNCTAD's investment-policy monitor independently summarizes the same obligation; the Official Journal text remains the controlling legal source. [S116, S121]
 
 - It applies to establishments incorporated under Algerian law with annual turnover **equal to or above DZD 2 billion**.
 - Each year, the establishment must allocate at least **1% of the taxable profit** of the financial year to R&D or innovation actions.
