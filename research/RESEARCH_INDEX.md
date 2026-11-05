@@ -1,6 +1,6 @@
 # Research Index
 
-**Last updated:** 2 November 2026  
+**Last updated:** 5 November 2026  
 **Current phase:** Opportunity qualification, before product commitment.
 
 ## Executive position
@@ -170,6 +170,14 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 4. **Institutional demand signals are concrete but not award evidence.** CERIST issued 2026 consultations covering GPU computing, SOC equipment, backup/restore, anti-DDoS and managed cybersecurity. Track award and delivery outcomes separately. [S42–S44]
 5. **Language resources are expanding.** NADI 2026, Arab Voices and ELNER-DZ show existing resources and benchmarks; the opportunity may be in quality, coverage, evaluation and domain adaptation rather than generic corpus creation. [S27–S30]
 
+## Research QA and evidence freshness — 5 November 2026
+
+- Structural checks across research documents 00–22 found no duplicate source IDs, no unresolved source citations and no broken local Markdown targets. A repeatable offline validator and unit tests have been added; CI now invokes the validator. This does not test external URL reachability or factual truth.
+- The source register now contains S01–S166. The new SGG latest-issues listing reports JO No. 76 dated 29 October 2026, while the separate official 2026 calendar page retrieved in this pass still stops at No. 57. [S165–S166]
+- The Article 107 timetable and general implementing decree are **not verified for JO Nos. 60–76**. UpGrowth's prior Gazette scan stops at No. 59; later official PDFs could not be retrieved in this environment. Do not state that no implementing text exists. [S157–S159, S165–S166]
+- Repository metadata shows a public repository with no declared GitHub license. Reuse permissions for the original research notes are therefore not explicitly granted by repository metadata; third-party source rights remain separate.
+- [Full QA and verification audit](23-RESEARCH-QA-AND-VERIFICATION-AUDIT-2026-11-05.md).
+
 ## Research method and navigation
 
 - [Multi-angle landscape map](08-LANDSCAPE-MAP.md)
@@ -184,6 +192,8 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 - [Funding, tax incentives and market access](19-FUNDING-TAX-AND-MARKET-ACCESS-2026-11-02.md)
 - [SME financing and investment incentives](20-SME-FINANCING-AND-INVESTMENT-INCENTIVES-2026-11-02.md)
 - [Electronic procurement portal and SME market access](21-E-PROCUREMENT-PORTAL-AND-SME-MARKET-ACCESS-2026-11-02.md)
+- [Procurement supplier economy and bid-to-cash](22-PROCUREMENT-SUPPLIER-ECONOMY-AND-BID-TO-CASH-2026-11-02.md)
+- [Research QA and verification audit](23-RESEARCH-QA-AND-VERIFICATION-AUDIT-2026-11-05.md)
 - [Source register](SOURCES.md)
 
 New evidence should reopen only the dependent claims and decisions. It should not silently erase earlier reasoning or automatically promote a hypothesis to a product commitment.
