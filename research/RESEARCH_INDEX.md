@@ -172,7 +172,7 @@ After 15 November 2026, verify actual CHU rollout completion, live EHR modules, 
 
 ## Research QA and evidence freshness — 5 November 2026
 
-- Structural checks across research documents 00–22 found no duplicate source IDs, no unresolved source citations and no broken local Markdown targets. A repeatable offline validator and unit tests have been added; CI now invokes the validator. This does not test external URL reachability or factual truth.
+- Structural checks passed in GitHub Actions: 27 Markdown files, 166 source IDs, 582 citation occurrences and 54 local links; **0 errors, 0 warnings**. The full test suite passed **11/11**. This does not test external URL reachability or factual truth.
 - The source register now contains S01–S166. The new SGG latest-issues listing reports JO No. 76 dated 29 October 2026, while the separate official 2026 calendar page retrieved in this pass still stops at No. 57. [S165–S166]
 - The Article 107 timetable and general implementing decree are **not verified for JO Nos. 60–76**. UpGrowth's prior Gazette scan stops at No. 59; later official PDFs could not be retrieved in this environment. Do not state that no implementing text exists. [S157–S159, S165–S166]
 - Repository metadata shows a public repository with no declared GitHub license. Reuse permissions for the original research notes are therefore not explicitly granted by repository metadata; third-party source rights remain separate.
