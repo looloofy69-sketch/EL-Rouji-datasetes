@@ -148,6 +148,10 @@ Two later CERIST notices show email/fax channels still appearing in tender instr
 
 **Research implication:** add contract status, award method, number of bidders, submission channel and transition/timetable references to procurement-sample records. Follow provisional award through final award, contract notification, delivery, acceptance, payment and renewal before using it as evidence of recurring demand.
 
+### 4.2 Legal-status freshness limitation — 5 November 2026
+
+The prior statement that the Article 107 timetable was “not located” must be bounded: UpGrowth's cited Gazette scan ends at JO No. 59, whereas the SGG landing page now lists JO No. 76 (29 Oct 2026). The SGG's separate calendar page still shows only through No. 57, and the later PDF contents were not retrievable in this research environment. Consequently, the Article 107 timetable and the general implementing decree are **not verified for JO Nos. 60–76**. Do not treat the earlier vendor archive no-hit as current proof of absence. [S157–S159, S165–S166]
+
 ## 5. Economics and entry constraints
 
 - **Subscription ceiling:** public subscription prices show that basic discovery is sold at modest annual ticket sizes. At this level, a new entrant needs low acquisition/support costs or a larger enterprise/service bundle. Displayed prices do not reveal actual willingness to pay or realized selling price.
