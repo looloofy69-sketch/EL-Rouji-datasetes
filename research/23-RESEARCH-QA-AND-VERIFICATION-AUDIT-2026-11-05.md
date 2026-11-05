@@ -88,7 +88,7 @@ python scripts/validate_research.py
 python -m unittest discover -s tests -v
 ```
 
-The validator's unit tests passed against isolated fixtures during development. The GitHub Actions run after the new CI step is the authoritative repository-level execution check; do not claim that CI passed until its run is inspected.
+**Verified CI result:** GitHub Actions run [42056904055](https://github.com/looloofy69-sketch/EL-Rouji-datasetes/actions/runs/42056904055), for commit `200a98b6875cc17972f9aeb384fbdc541fdd269a`, completed successfully. The validator checked 27 Markdown files, 166 source IDs, 582 citation occurrences and 54 local links: **0 errors, 0 warnings**. The full test suite ran 11 tests: **11 passed**. This verifies the repository state at that commit; later changes should trigger another run.
 
 ## 4. Must-fix next
 
