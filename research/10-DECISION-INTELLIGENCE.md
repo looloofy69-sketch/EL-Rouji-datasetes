@@ -1,6 +1,6 @@
 # Decision Intelligence: Current Hypotheses, Dependencies and Change Triggers
 
-**As of:** 1 November 2026  
+**As of:** 5 November 2026  
 **Status:** living decision register; no product commitment implied.
 
 ## 1. Cross-landscape findings that now matter
@@ -218,4 +218,11 @@ The government portal's free-download baseline further weakens generic aggregati
 29. Treat a provisional award as pre-contract evidence only until final award, contract notification, delivery, acceptance, payment and any renewal are verified.
 30. Article 41 implementation can be case-specific: a sector-specific order under one indent does not implement the separate startup exception.
 31. Advertised bid-support prices are one provider's asking prices, not actual revenue, market averages or representative SME willingness-to-pay.
+
+
+32. The SGG latest-issues listing reports JO No. 76, but its retrieved annual calendar page stops at No. 57; treat the two official surfaces as inconsistent in freshness.
+33. Do not infer absence of the Article 107 timetable or general implementing decree until JO Nos. 60–76 are directly reviewed; UpGrowth's cited scan ends at No. 59.
+34. Structural citation/link validation is not factual verification, legal advice, external URL testing or rights clearance.
+35. The research method requires claim-level traceability; source IDs alone are not a complete claim/evidence graph.
+36. A public GitHub repository with no declared license does not grant a general reuse license; decide licensing separately and preserve third-party rights boundaries.
 
