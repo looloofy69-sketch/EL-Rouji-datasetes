@@ -133,6 +133,16 @@ The Article 41 position also needs scope precision. Article 41 has several excep
 
 Article 112 remains the transition rule: regulatory provisions continue insofar as they are not contrary to Law 23-12 until replacement regulations are published. Do not assume that the entire 2015 presidential decree either remains wholly applicable or has been wholly displaced; test the individual rule, relevant implementing text and tender launch/notification date. [S130]
 
+## 6B. Current Gazette freshness check — 5 November 2026
+
+The earlier Article 107 timetable check relied partly on UpGrowth's legal archive review, which its article says extended through Official Journal No. 59 (16 August 2026). That review is not current enough to establish the position on 5 November. [S159]
+
+The SGG's official landing-page listing now identifies Official Journal No. 76 dated 29 October 2026 as the latest issue, with Nos. 73–75 also listed. However, the SGG's separate 2026 calendar/archive page, as retrieved in this pass, still displays entries only through No. 57. These two official website surfaces are inconsistent in freshness. [S165–S166]
+
+Attempts in this research environment to retrieve the PDF contents of later issues (including Nos. 74–76) did not succeed. Therefore this pass **does not verify whether an Article 107 timetable order or the general implementing decree appeared in Official Journal Nos. 60–76**. The correct status is *not verified for the later issue range*—not “no order exists” or “no decree was published.” The March/April Government draft-review communiqués remain historical milestones only. [S157–S158, S165–S166]
+
+**Required verification:** obtain the official French and Arabic PDFs for Nos. 60–76 (or use the SGG thematic legal search with a reproducible query log), inspect every relevant text and cross-reference, and record exact issue/page/article and commencement provisions. Until then, suppliers must follow the applicable tender documents and obtain qualified legal advice for disputed transition questions.
+
 ## 7. Potential supplier opportunities around the portal
 
 | Opportunity | Target user/buyer | Possible offer | Main validation needed |
