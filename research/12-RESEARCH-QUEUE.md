@@ -1,7 +1,16 @@
 # Research Queue — Next Landscape Passes
 
-**Updated:** 2 November 2026  
+**Updated:** 5 November 2026  
 **Purpose:** direct the next research cycle toward uncertainties most likely to change the opportunity map.
+
+## Priority 0 — archive integrity and procurement-law freshness
+
+- Retrieve and inspect official French and Arabic Gazette PDFs for JO Nos. 60–76; record a reproducible issue-by-issue search for Law 23-12, Article 107, the general implementing decree, Article 41 and Article 58.
+- Resolve the SGG website freshness conflict: latest-issues listing reports No. 76, while the parsed annual calendar still ends at No. 57.
+- Do not close the Article 107 timetable question from UpGrowth's scan through No. 59. Record exact issue/page/date and effective-date language if found.
+- Introduce claim-level IDs for material assertions and link each claim to one or more source IDs, counter-evidence, confidence and refresh trigger.
+- Decide whether to publish an explicit license for original research notes. Do not imply rights over linked third-party source material.
+- Run `python scripts/validate_research.py` and `python -m unittest discover -s tests -v` after research-archive changes. The validator checks local structure only; manual source/legal review remains mandatory.
 
 ## Priority 1 — regulatory implementation and trust infrastructure
 
