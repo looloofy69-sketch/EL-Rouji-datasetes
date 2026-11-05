@@ -1,7 +1,7 @@
 # Research Intelligence Archive
 
-**Snapshot:** 2 November 2026  
-**Archive status:** Initial research record; evidence review ongoing.
+**Snapshot:** 5 November 2026  
+**Archive status:** Active research record; structural QA and evidence freshness review ongoing.
 
 ## Purpose
 
@@ -56,6 +56,7 @@ Confidence describes the inference, not just the source authority. Conflicts and
 - [Electronic procurement portal and SME market access — 2 Nov 2026](21-E-PROCUREMENT-PORTAL-AND-SME-MARKET-ACCESS-2026-11-02.md)
 - [Procurement supplier economy and bid-to-cash landscape — 2 Nov 2026](22-PROCUREMENT-SUPPLIER-ECONOMY-AND-BID-TO-CASH-2026-11-02.md)
 - [Source register](SOURCES.md)
+- [Research QA and verification audit — 5 Nov 2026](23-RESEARCH-QA-AND-VERIFICATION-AUDIT-2026-11-05.md)
 
 ## Change control
 
