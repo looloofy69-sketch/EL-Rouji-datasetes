@@ -62,5 +62,8 @@ This repository also keeps a source-linked research archive supporting EL-Rouji'
 - [Research index](research/RESEARCH_INDEX.md)
 - [Research archive rules and navigation](research/README.md)
 - [Source register](research/SOURCES.md)
+- [Research QA and verification audit](research/23-RESEARCH-QA-AND-VERIFICATION-AUDIT-2026-11-05.md)
+
+Run the offline research-archive checks with `python scripts/validate_research.py`; this checks source-ID/citation resolution and local Markdown links, not external URL reachability or claim truth.
 
 The root data-governance, privacy, licensing and contribution rules apply. Research findings do not grant rights to reuse source material.
